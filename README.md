@@ -1,0 +1,2 @@
+# AntiBanJapanTool
+antibanjapanのツールです　しらんけど
