@@ -1,0 +1,2151 @@
+{
+  "halcyon": {
+    "configId": "021519232300303",
+    "description": "No description assigned.",
+    "formatVersion": 2,
+    "halcyonVersion": "4.1"
+  },
+  "modules": {
+    "Airjump": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Airswim": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Airwalk": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Ambience": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Rain": {
+          "modeValue": 0
+        },
+        "Time": {
+          "numberValue": 15000.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AnchorAura": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AntiAura": {
+      "enabled": false,
+      "settings": {
+        "Distance": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "KeepY": {
+          "trueFalseValue": false
+        },
+        "OnHurt": {
+          "trueFalseValue": false
+        },
+        "Randomization": {
+          "numberValue": 5.0
+        },
+        "Range": {
+          "numberValue": 6.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AntiBot": {
+      "enabled": true,
+      "settings": {
+        "DeviceCheck": {
+          "trueFalseValue": false
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "HitboxCheck": {
+          "trueFalseValue": false
+        },
+        "IDCheck": {
+          "trueFalseValue": true
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "NameCheck": {
+          "trueFalseValue": true
+        },
+        "SkinCheck": {
+          "trueFalseValue": false
+        },
+        "isCreative": {
+          "trueFalseValue": false
+        },
+        "isImmobile": {
+          "trueFalseValue": true
+        },
+        "isInvisible": {
+          "trueFalseValue": true
+        },
+        "isPlayer": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AntiHunger": {
+      "enabled": false,
+      "settings": {
+        "AuthInput": {
+          "trueFalseValue": true
+        },
+        "Ground": {
+          "trueFalseValue": true
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Jump": {
+          "trueFalseValue": true
+        },
+        "Sprint": {
+          "trueFalseValue": true
+        },
+        "Swim": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AntiImmobile": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AntiVoid": {
+      "enabled": false,
+      "settings": {
+        "Distance": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "ScaffoldEnable": {
+          "trueFalseValue": false
+        },
+        "SpeedDisable": {
+          "trueFalseValue": false
+        },
+        "TPOnce": {
+          "trueFalseValue": false
+        },
+        "VoidCheck": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ArmorHUD": {
+      "enabled": true,
+      "sceneElement": {
+        "Position": {
+          "_locked": true,
+          "translatedX": 348.5,
+          "translatedY": 341.29998779296875
+        }
+      },
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ArrayFix": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Arraylist": {
+      "enabled": true,
+      "sceneElement": {
+        "List": {
+          "_locked": true,
+          "translatedX": 661.8833618164063,
+          "translatedY": 0.0
+        }
+      },
+      "settings": {
+        "Animation": {
+          "modeValue": 1
+        },
+        "Bloom": {
+          "trueFalseValue": false
+        },
+        "Brightness": {
+          "numberValue": 10.0
+        },
+        "Categories": {
+          "trueFalseValue": false
+        },
+        "Color": {
+          "modeValue": 1
+        },
+        "Fade": {
+          "trueFalseValue": false
+        },
+        "Fancy": {
+          "trueFalseValue": true
+        },
+        "Glow": {
+          "trueFalseValue": false
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "NoModes": {
+          "trueFalseValue": true
+        },
+        "Offset": {
+          "numberValue": 21.116666793823242
+        },
+        "PostProcessing": {
+          "trueFalseValue": false
+        },
+        "Saturation": {
+          "numberValue": 2.8333332538604736
+        },
+        "Shadow": {
+          "trueFalseValue": false
+        },
+        "SolidWave": {
+          "trueFalseValue": false
+        },
+        "Speed": {
+          "numberValue": 19.764583587646484
+        },
+        "Style": {
+          "modeValue": 1
+        },
+        "Timescale": {
+          "numberValue": 4.02222204208374
+        },
+        "Wave": {
+          "trueFalseValue": false
+        },
+        "WaveText": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Aura": {
+      "enabled": false,
+      "settings": {
+        "APS": {
+          "numberValue": 10.11111068725586
+        },
+        "AutoSword": {
+          "modeValue": 1
+        },
+        "DynamicRange": {
+          "trueFalseValue": false
+        },
+        "FOV": {
+          "numberValue": 360.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Hurttime": {
+          "trueFalseValue": false
+        },
+        "IgnoreDelay": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 1
+        },
+        "Projectiles": {
+          "modeValue": 1
+        },
+        "Randomization": {
+          "trueFalseValue": true
+        },
+        "Raytrace": {
+          "trueFalseValue": false
+        },
+        "Rotations": {
+          "modeValue": 1
+        },
+        "Strafe": {
+          "trueFalseValue": false
+        },
+        "Swing Range": {
+          "numberValue": 12.066666603088379
+        },
+        "Target Range": {
+          "numberValue": 5.0
+        }
+      },
+      "virtualKeyCode": 82
+    },
+    "AutoArmor": {
+      "enabled": true,
+      "settings": {
+        "Drop": {
+          "trueFalseValue": false
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AutoClicker": {
+      "enabled": false,
+      "settings": {
+        "CPS Max": {
+          "numberValue": 15.333333015441895
+        },
+        "CPS Min": {
+          "numberValue": 14.88888931274414
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Left": {
+          "trueFalseValue": true
+        },
+        "Mining": {
+          "trueFalseValue": false
+        },
+        "Right": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AutoFarm": {
+      "enabled": false,
+      "settings": {
+        "Distance": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AutoLootbox": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AutoPot": {
+      "enabled": false,
+      "settings": {
+        "Healing": {
+          "trueFalseValue": true
+        },
+        "Health": {
+          "numberValue": 10.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Invisibility": {
+          "trueFalseValue": true
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Regeneration": {
+          "trueFalseValue": true
+        },
+        "Speed": {
+          "trueFalseValue": true
+        },
+        "Throw": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AutoQueue": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AutoSpellbook": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "AutoTool": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Spoof": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Blink": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Breaker": {
+      "enabled": false,
+      "settings": {
+        "Destroy": {
+          "trueFalseValue": false
+        },
+        "Distance": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "BuildReach": {
+      "enabled": false,
+      "settings": {
+        "Amount": {
+          "numberValue": 10.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ChestStealer": {
+      "enabled": true,
+      "settings": {
+        "Delay": {
+          "numberValue": 44.44444274902344
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 1
+        },
+        "Notify": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ChunkBorders": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ClickGUI": {
+      "enabled": false,
+      "settings": {
+        "Animated search": {
+          "trueFalseValue": true
+        },
+        "Color": {
+          "modeValue": 6
+        },
+        "Darken": {
+          "trueFalseValue": true
+        },
+        "Fade in": {
+          "trueFalseValue": true
+        },
+        "Hide UI": {
+          "trueFalseValue": true
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Lowercase": {
+          "trueFalseValue": true
+        },
+        "Slide in": {
+          "trueFalseValue": true
+        },
+        "Sorting": {
+          "modeValue": 0
+        },
+        "Sounds": {
+          "trueFalseValue": true
+        },
+        "Style": {
+          "modeValue": 2
+        },
+        "Tooltips": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 45
+    },
+    "ConfigManager": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 36
+    },
+    "Crasher": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "CrystalAura": {
+      "enabled": false,
+      "settings": {
+        "Delay": {
+          "numberValue": 500.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "PlaceRadius": {
+          "numberValue": 5.0
+        },
+        "Range": {
+          "numberValue": 7.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "DJ": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Derp": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "DeviceIDSpoof": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Disabler": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "SilentDesync": {
+          "numberValue": 0.14499999582767487
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ESP": {
+      "enabled": false,
+      "settings": {
+        "Containers": {
+          "trueFalseValue": false
+        },
+        "Fill": {
+          "trueFalseValue": false
+        },
+        "Health": {
+          "trueFalseValue": false
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Items": {
+          "trueFalseValue": false
+        },
+        "Outline": {
+          "trueFalseValue": true
+        },
+        "RGB": {
+          "trueFalseValue": true
+        },
+        "Self": {
+          "trueFalseValue": true
+        },
+        "Style": {
+          "modeValue": 1
+        },
+        "Width": {
+          "numberValue": 6.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "EditionFaker": {
+      "enabled": false,
+      "settings": {
+        "Edition": {
+          "modeValue": 0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Extinguisher": {
+      "enabled": false,
+      "settings": {
+        "Distance": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "FastLadder": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Speed": {
+          "numberValue": 5.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "FastStop": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "FastUse": {
+      "enabled": false,
+      "settings": {
+        "Amount": {
+          "numberValue": 1.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Fly": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Timer boost": {
+          "trueFalseValue": false
+        },
+        "TimerBoost": {
+          "numberValue": 12.666666984558105
+        },
+        "Value": {
+          "numberValue": 18.524999618530273
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Franky": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Freecam": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Friends": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Fullbright": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "GUI": {
+      "enabled": true,
+      "settings": {
+        "Custom logo": {
+          "trueFalseValue": true
+        },
+        "Font": {
+          "modeValue": 0
+        },
+        "Hotbar": {
+          "modeValue": 1
+        },
+        "Pos anims": {
+          "trueFalseValue": true
+        },
+        "Shadow": {
+          "modeValue": 0
+        },
+        "Shortcuts": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Godmode": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "HackerDetect": {
+      "enabled": false,
+      "settings": {
+        "BadPacketsA": {
+          "trueFalseValue": true
+        },
+        "BadPacketsB": {
+          "trueFalseValue": true
+        },
+        "BadPacketsC": {
+          "trueFalseValue": true
+        },
+        "BadPacketsE": {
+          "trueFalseValue": true
+        },
+        "CollisionA": {
+          "trueFalseValue": true
+        },
+        "FlyA": {
+          "trueFalseValue": true
+        },
+        "FlyB": {
+          "trueFalseValue": true
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Ignore friends": {
+          "trueFalseValue": true
+        },
+        "SpeedA": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "HealthAlert": {
+      "enabled": false,
+      "settings": {
+        "Health": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Sound": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "HitAnimations": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "HitSounds": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Sound": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Hitbox": {
+      "enabled": false,
+      "settings": {
+        "Height": {
+          "numberValue": 1.7777777910232544
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Width": {
+          "numberValue": 1.7777777910232544
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "HoleESP": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Radius": {
+          "numberValue": 5.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "HungerSpoof": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Hunger": {
+          "numberValue": 19.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "InfiniteAura": {
+      "enabled": false,
+      "settings": {
+        "APS Min": {
+          "numberValue": 7.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Hurttime": {
+          "trueFalseValue": false
+        },
+        "IgnoreDelay": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Multi": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Instabreak": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "InteractSpam": {
+      "enabled": false,
+      "settings": {
+        "Distance": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Multiplier": {
+          "numberValue": 4.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "InvFix": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "InvMove": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "InventoryCleaner": {
+      "enabled": true,
+      "settings": {
+        "Drop TNT": {
+          "trueFalseValue": true
+        },
+        "Drop armor": {
+          "trueFalseValue": true
+        },
+        "Drop blocks": {
+          "trueFalseValue": true
+        },
+        "Drop bows": {
+          "trueFalseValue": true
+        },
+        "Drop compass": {
+          "trueFalseValue": true
+        },
+        "Drop food": {
+          "trueFalseValue": true
+        },
+        "Drop swords": {
+          "trueFalseValue": true
+        },
+        "Drop tools": {
+          "trueFalseValue": true
+        },
+        "Equip armor": {
+          "trueFalseValue": true
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "NoSwing": {
+          "trueFalseValue": false
+        },
+        "Sort hotbar": {
+          "trueFalseValue": true
+        },
+        "Stacks to keep": {
+          "numberValue": 4.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ItemAnimations": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Snap fix": {
+          "trueFalseValue": false
+        },
+        "Snap value": {
+          "numberValue": 15.0
+        },
+        "Speed value": {
+          "numberValue": 15.0
+        },
+        "Swing speed": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ItemSpin": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Speed": {
+          "numberValue": 1.0555555820465088
+        },
+        "X": {
+          "modeValue": 1
+        },
+        "Y": {
+          "modeValue": 0
+        },
+        "Z": {
+          "modeValue": 2
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Jesus": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Jetpack": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Speed": {
+          "numberValue": 5.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Keystrokes": {
+      "enabled": false,
+      "sceneElement": {
+        "Position": {
+          "_locked": true,
+          "translatedX": 0.0,
+          "translatedY": 384.0
+        }
+      },
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Offset": {
+          "numberValue": 0.0
+        },
+        "Style": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Killsults": {
+      "enabled": false,
+      "settings": {
+        "AutoGG": {
+          "trueFalseValue": true
+        },
+        "Delay": {
+          "numberValue": 500.0
+        },
+        "Format": {
+          "modeValue": 0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Killcount": {
+          "trueFalseValue": false
+        },
+        "Mention": {
+          "trueFalseValue": true
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Server": {
+          "modeValue": 0
+        },
+        "Sound": {
+          "modeValue": 0
+        },
+        "Unicode": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "LevelInfo": {
+      "enabled": false,
+      "sceneElement": {
+        "Blocks per Second Pos": {
+          "_locked": true,
+          "translatedX": 2.5,
+          "translatedY": 341.5
+        },
+        "Coordinates Pos": {
+          "_locked": true,
+          "translatedX": 2.5,
+          "translatedY": 351.5
+        },
+        "Network Info Pos": {
+          "_locked": true,
+          "translatedX": 2.5,
+          "translatedY": 371.5
+        },
+        "Ping Pos": {
+          "_locked": true,
+          "translatedX": 2.5,
+          "translatedY": 40.0
+        }
+      },
+      "settings": {
+        "Average BPS": {
+          "trueFalseValue": false
+        },
+        "BPS": {
+          "trueFalseValue": true
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Ping": {
+          "trueFalseValue": true
+        },
+        "Position": {
+          "trueFalseValue": true
+        },
+        "RGB": {
+          "trueFalseValue": true
+        },
+        "Server": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Longjump": {
+      "enabled": false,
+      "settings": {
+        "DoubleJump": {
+          "trueFalseValue": false
+        },
+        "Height": {
+          "numberValue": 4.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Slow": {
+          "trueFalseValue": false
+        },
+        "Speed": {
+          "numberValue": 5.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "LoudActions": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Matrix": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Nametags": {
+      "enabled": false,
+      "settings": {
+        "Armor": {
+          "trueFalseValue": true
+        },
+        "Background": {
+          "trueFalseValue": false
+        },
+        "Device": {
+          "trueFalseValue": false
+        },
+        "Distance": {
+          "trueFalseValue": false
+        },
+        "Fancy": {
+          "trueFalseValue": true
+        },
+        "Health": {
+          "trueFalseValue": true
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Scale": {
+          "numberValue": -0.1111111119389534
+        },
+        "Self": {
+          "trueFalseValue": true
+        },
+        "Static": {
+          "trueFalseValue": true
+        },
+        "Truncate": {
+          "trueFalseValue": true
+        },
+        "Visibility": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 9
+    },
+    "Nightmode": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoBackground": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoCameraClip": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoDebuff": {
+      "enabled": false,
+      "settings": {
+        "Blindness": {
+          "trueFalseValue": true
+        },
+        "Darkness": {
+          "trueFalseValue": true
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Leaping": {
+          "trueFalseValue": true
+        },
+        "Levitation": {
+          "trueFalseValue": true
+        },
+        "Nausea": {
+          "trueFalseValue": true
+        },
+        "Slow Falling": {
+          "trueFalseValue": true
+        },
+        "Slowness": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoFall": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoFire": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoHurtcam": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoItemBob": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoLagback": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoPacket": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoRender": {
+      "enabled": false,
+      "settings": {
+        "BlockEntities": {
+          "trueFalseValue": false
+        },
+        "Entities": {
+          "trueFalseValue": false
+        },
+        "HUD": {
+          "trueFalseValue": false
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Particles": {
+          "trueFalseValue": false
+        },
+        "Sky": {
+          "trueFalseValue": false
+        },
+        "Terrain": {
+          "trueFalseValue": false
+        },
+        "Viewmodel": {
+          "trueFalseValue": false
+        },
+        "Weather": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoRotate": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoShadows": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoSlowdown": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoSwing": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NoTileSlowdown": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "NonSolidWalk": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Notifications": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Style": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Nuker": {
+      "enabled": false,
+      "settings": {
+        "Distance": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "OldSwim": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "OptimizedUnfocus": {
+      "enabled": false,
+      "settings": {
+        "FPS limit": {
+          "numberValue": 10.0
+        },
+        "Hide UI": {
+          "trueFalseValue": true
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Lock screen": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "PacketLogger": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Parkour": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Phase": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Negative": {
+          "trueFalseValue": false
+        },
+        "Value": {
+          "numberValue": 2.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ProtocolSpoof": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Ver": {
+          "modeValue": 45
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Radar": {
+      "enabled": false,
+      "sceneElement": {
+        "Position": {
+          "_locked": false,
+          "translatedX": 10.0,
+          "translatedY": 40.0
+        }
+      },
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Rainbow": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "RainbowSky": {
+      "enabled": false,
+      "settings": {
+        "Brightness": {
+          "numberValue": 10.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Saturation": {
+          "numberValue": 10.0
+        },
+        "Speed": {
+          "numberValue": 5.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "RapidHit": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Regen": {
+      "enabled": true,
+      "settings": {
+        "Distance": {
+          "numberValue": 7.038888931274414
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 1
+        }
+      },
+      "virtualKeyCode": 86
+    },
+    "ReverseStep": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Scaffold": {
+      "enabled": false,
+      "settings": {
+        "Blocks left": {
+          "modeValue": 0
+        },
+        "Distance": {
+          "numberValue": 8.954999923706055
+        },
+        "Extend": {
+          "trueFalseValue": true
+        },
+        "ExtendVal": {
+          "numberValue": 3.015000104904175
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Keep Y": {
+          "trueFalseValue": true
+        },
+        "Legit": {
+          "trueFalseValue": false
+        },
+        "NoSwing": {
+          "trueFalseValue": false
+        },
+        "Places": {
+          "numberValue": 30.844999313354492
+        },
+        "Priority": {
+          "modeValue": 0
+        },
+        "Rots": {
+          "modeValue": 2
+        },
+        "Switch": {
+          "modeValue": 0
+        },
+        "Telly": {
+          "trueFalseValue": false
+        },
+        "Timer boost": {
+          "trueFalseValue": false
+        },
+        "TimerBoost": {
+          "numberValue": 20.0
+        },
+        "Tower": {
+          "modeValue": 2
+        },
+        "Zipline": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 67
+    },
+    "ServerSneak": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "SilentActions": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "SmallItems": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Old": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "SoundPlayer": {
+      "enabled": false,
+      "settings": {
+        "Always": {
+          "trueFalseValue": false
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Randomize": {
+          "trueFalseValue": false
+        },
+        "Sound": {
+          "numberValue": 1.0
+        },
+        "Type": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Spammer": {
+      "enabled": false,
+      "settings": {
+        "Delay": {
+          "numberValue": 500.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Speed": {
+      "enabled": false,
+      "settings": {
+        "Halt": {
+          "trueFalseValue": true
+        },
+        "Height": {
+          "numberValue": 4.05555534362793
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Jump": {
+          "modeValue": 0
+        },
+        "Mode": {
+          "modeValue": 2
+        },
+        "NoStep": {
+          "trueFalseValue": true
+        },
+        "Packet": {
+          "trueFalseValue": true
+        },
+        "Randomize": {
+          "trueFalseValue": true
+        },
+        "ResetFriction": {
+          "trueFalseValue": false
+        },
+        "ResetValue": {
+          "numberValue": 5.0
+        },
+        "Rotate": {
+          "trueFalseValue": true
+        },
+        "Timer boost": {
+          "trueFalseValue": true
+        },
+        "TimerBoost": {
+          "numberValue": 21.0
+        },
+        "Value": {
+          "numberValue": 6.175000190734863
+        }
+      },
+      "virtualKeyCode": 70
+    },
+    "Spider": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Speed": {
+          "numberValue": 2.055555582046509
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Sprint": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "StackableItems": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Step": {
+      "enabled": false,
+      "settings": {
+        "Amount": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "StorageAura": {
+      "enabled": false,
+      "settings": {
+        "Distance": {
+          "numberValue": 5.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "StreamerMode": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Hive": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "SuperheroFX": {
+      "enabled": false,
+      "settings": {
+        "Animation": {
+          "modeValue": 0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "TargetHUD": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Style": {
+          "modeValue": 2
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Teams": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "TestModule": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "angle": {
+          "numberValue": 3.0
+        },
+        "anim": {
+          "modeValue": 0
+        },
+        "size": {
+          "numberValue": 3.0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Timer": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Speed": {
+          "numberValue": 13.6850004196167
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "ToggleSounds": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Sound": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Triggerbot": {
+      "enabled": false,
+      "settings": {
+        "APS Max": {
+          "numberValue": 12.0
+        },
+        "APS Min": {
+          "numberValue": 10.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Hurttime": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Uninject": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 35
+    },
+    "Velocity": {
+      "enabled": true,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Horizontal": {
+          "numberValue": 85.55555725097656
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Vertical": {
+          "numberValue": 85.55555725097656
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Watermark": {
+      "enabled": false,
+      "sceneElement": {
+        "Name": {
+          "_locked": false,
+          "translatedX": 8.0,
+          "translatedY": 8.0
+        },
+        "Version": {
+          "_locked": false,
+          "translatedX": 8.0,
+          "translatedY": 25.5
+        }
+      },
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Style": {
+          "modeValue": 0
+        },
+        "Version": {
+          "trueFalseValue": true
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Zoom": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Reverse": {
+          "trueFalseValue": false
+        },
+        "Zoom": {
+          "numberValue": 40.0
+        }
+      },
+      "virtualKeyCode": 0
+    }
+  }
+}
