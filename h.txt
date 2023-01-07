@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "021519232300303",
+    "configId": "201116232300707",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.1"
@@ -189,7 +189,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 348.5,
-          "translatedY": 341.29998779296875
+          "translatedY": 307.1000061035156
         }
       },
       "settings": {
@@ -327,7 +327,7 @@
           "numberValue": 12.066666603088379
         },
         "Target Range": {
-          "numberValue": 5.0
+          "numberValue": 10.835000038146973
         }
       },
       "virtualKeyCode": 82
@@ -993,7 +993,7 @@
           "modeValue": 0
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 71
     },
     "InteractSpam": {
       "enabled": false,
@@ -1171,13 +1171,13 @@
       "virtualKeyCode": 0
     },
     "Killsults": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "AutoGG": {
           "trueFalseValue": true
         },
         "Delay": {
-          "numberValue": 500.0
+          "numberValue": 149.98500061035156
         },
         "Format": {
           "modeValue": 0
@@ -1192,7 +1192,7 @@
           "trueFalseValue": true
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 6
         },
         "Server": {
           "modeValue": 0
@@ -1201,7 +1201,7 @@
           "modeValue": 0
         },
         "Unicode": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -1707,16 +1707,16 @@
       "virtualKeyCode": 0
     },
     "Regen": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Distance": {
-          "numberValue": 7.038888931274414
+          "numberValue": 2.009999990463257
         },
         "Hide in list": {
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 1
+          "modeValue": 0
         }
       },
       "virtualKeyCode": 86
@@ -1758,10 +1758,10 @@
           "trueFalseValue": false
         },
         "Places": {
-          "numberValue": 30.844999313354492
+          "numberValue": 29.915000915527344
         },
         "Priority": {
-          "modeValue": 0
+          "modeValue": 1
         },
         "Rots": {
           "modeValue": 2
@@ -1893,7 +1893,7 @@
           "trueFalseValue": true
         },
         "Timer boost": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "TimerBoost": {
           "numberValue": 21.0
@@ -1911,7 +1911,7 @@
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 2.055555582046509
+          "numberValue": 3.015000104904175
         }
       },
       "virtualKeyCode": 0
