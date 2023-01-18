@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "574116232300808",
+    "configId": "565722232301717",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.1"
@@ -990,7 +990,7 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 1
+          "modeValue": 3
         }
       },
       "virtualKeyCode": 71
@@ -1192,7 +1192,7 @@
           "trueFalseValue": true
         },
         "Mode": {
-          "modeValue": 6
+          "modeValue": 0
         },
         "Server": {
           "modeValue": 0
@@ -1737,13 +1737,13 @@
           "modeValue": 0
         },
         "Distance": {
-          "numberValue": 8.954999923706055
+          "numberValue": 10.05555534362793
         },
         "Extend": {
           "trueFalseValue": true
         },
         "ExtendVal": {
-          "numberValue": 3.015000104904175
+          "numberValue": 10.05555534362793
         },
         "Hide in list": {
           "trueFalseValue": false
@@ -1758,7 +1758,7 @@
           "trueFalseValue": false
         },
         "Places": {
-          "numberValue": 29.915000915527344
+          "numberValue": 31.11111068725586
         },
         "Priority": {
           "modeValue": 1
@@ -1773,7 +1773,7 @@
           "trueFalseValue": false
         },
         "Timer boost": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "TimerBoost": {
           "numberValue": 20.0
