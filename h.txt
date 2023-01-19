@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "565722232301717",
+    "configId": "433622232301919",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.1"
@@ -327,7 +327,7 @@
           "numberValue": 12.066666603088379
         },
         "Target Range": {
-          "numberValue": 5.005000114440918
+          "numberValue": 4.014999866485596
         }
       },
       "virtualKeyCode": 82
@@ -990,7 +990,7 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 3
+          "modeValue": 1
         }
       },
       "virtualKeyCode": 71
@@ -1011,7 +1011,7 @@
       "virtualKeyCode": 0
     },
     "InvFix": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": false
@@ -1743,7 +1743,7 @@
           "trueFalseValue": true
         },
         "ExtendVal": {
-          "numberValue": 10.05555534362793
+          "numberValue": 3.015000104904175
         },
         "Hide in list": {
           "trueFalseValue": false
@@ -1758,7 +1758,7 @@
           "trueFalseValue": false
         },
         "Places": {
-          "numberValue": 31.11111068725586
+          "numberValue": 1.0850000381469727
         },
         "Priority": {
           "modeValue": 1
