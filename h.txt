@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "221514232302929",
+    "configId": "030020232303302",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.1"
@@ -88,7 +88,7 @@
           "trueFalseValue": false
         },
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "HitboxCheck": {
           "trueFalseValue": false
@@ -189,12 +189,12 @@
         "Position": {
           "_locked": true,
           "translatedX": 348.5,
-          "translatedY": 341.29998779296875
+          "translatedY": 307.1000061035156
         }
       },
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -219,10 +219,10 @@
       },
       "settings": {
         "Animation": {
-          "modeValue": 1
+          "modeValue": 0
         },
         "Bloom": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Brightness": {
           "numberValue": 10.0
@@ -234,16 +234,16 @@
           "modeValue": 1
         },
         "Fade": {
-          "trueFalseValue": false
-        },
-        "Fancy": {
           "trueFalseValue": true
         },
-        "Glow": {
+        "Fancy": {
           "trueFalseValue": false
         },
+        "Glow": {
+          "trueFalseValue": true
+        },
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "NoModes": {
           "trueFalseValue": true
@@ -252,19 +252,19 @@
           "numberValue": 21.116666793823242
         },
         "PostProcessing": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Saturation": {
           "numberValue": 2.8333332538604736
         },
         "Shadow": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "SolidWave": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Speed": {
-          "numberValue": 19.764583587646484
+          "numberValue": 1.3212499618530273
         },
         "Style": {
           "modeValue": 1
@@ -273,10 +273,10 @@
           "numberValue": 4.02222204208374
         },
         "Wave": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "WaveText": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -339,7 +339,7 @@
           "trueFalseValue": false
         },
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 0
@@ -450,7 +450,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Spoof": {
           "trueFalseValue": true
@@ -510,7 +510,7 @@
           "numberValue": 44.44444274902344
         },
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 1
@@ -735,7 +735,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -804,7 +804,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -900,7 +900,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 0
@@ -984,7 +984,7 @@
       "virtualKeyCode": 0
     },
     "Instabreak": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": false
@@ -1062,7 +1062,7 @@
           "trueFalseValue": true
         },
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 0
@@ -1083,7 +1083,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 0
@@ -1128,7 +1128,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 0
@@ -1183,7 +1183,7 @@
           "modeValue": 0
         },
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Killcount": {
           "trueFalseValue": false
@@ -1207,22 +1207,22 @@
       "virtualKeyCode": 0
     },
     "LevelInfo": {
-      "enabled": false,
+      "enabled": true,
       "sceneElement": {
         "Blocks per Second Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 341.5
+          "translatedY": 335.5
         },
         "Coordinates Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 351.5
+          "translatedY": 315.5
         },
         "Network Info Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 371.5
+          "translatedY": 335.5
         },
         "Ping Pos": {
           "_locked": true,
@@ -1232,25 +1232,25 @@
       },
       "settings": {
         "Average BPS": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "BPS": {
           "trueFalseValue": true
         },
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Ping": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Position": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "RGB": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Server": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 0
@@ -1364,7 +1364,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -1415,7 +1415,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -1815,7 +1815,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Old": {
           "trueFalseValue": false
@@ -1869,7 +1869,7 @@
           "trueFalseValue": false
         },
         "Jump": {
-          "modeValue": 0
+          "modeValue": 1
         },
         "Mode": {
           "modeValue": 2
@@ -1899,7 +1899,7 @@
           "numberValue": 21.0
         },
         "Value": {
-          "numberValue": 5.605000019073486
+          "numberValue": 4.940000057220459
         }
       },
       "virtualKeyCode": 70
@@ -1908,7 +1908,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Speed": {
           "numberValue": 3.015000104904175
@@ -1920,7 +1920,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 0
@@ -2010,7 +2010,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 0
@@ -2091,7 +2091,7 @@
       "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Horizontal": {
           "numberValue": 85.55555725097656
