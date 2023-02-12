@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "243515232304009",
+    "configId": "420517232304312",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.1"
@@ -188,8 +188,8 @@
       "sceneElement": {
         "Position": {
           "_locked": true,
-          "translatedX": 327.0,
-          "translatedY": 280.5
+          "translatedX": 348.5,
+          "translatedY": 307.1000061035156
         }
       },
       "settings": {
@@ -213,7 +213,7 @@
       "sceneElement": {
         "List": {
           "_locked": true,
-          "translatedX": 618.8833618164063,
+          "translatedX": 661.8833618164063,
           "translatedY": 0.0
         }
       },
@@ -564,7 +564,7 @@
           "trueFalseValue": true
         },
         "Style": {
-          "modeValue": 0
+          "modeValue": 2
         },
         "Tooltips": {
           "trueFalseValue": true
@@ -651,7 +651,7 @@
           "trueFalseValue": true
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 3
         },
         "SilentDesync": {
           "numberValue": 0.0
@@ -1192,7 +1192,7 @@
           "trueFalseValue": true
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 6
         },
         "Server": {
           "modeValue": 0
@@ -1201,7 +1201,7 @@
           "modeValue": 0
         },
         "Unicode": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 0
@@ -1212,7 +1212,7 @@
         "Blocks per Second Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 307.5
+          "translatedY": 335.5
         },
         "Coordinates Pos": {
           "_locked": true,
@@ -1893,19 +1893,19 @@
           "trueFalseValue": true
         },
         "Timer boost": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "TimerBoost": {
           "numberValue": 21.0
         },
         "Value": {
-          "numberValue": 5.333333492279053
+          "numberValue": 5.130000114440918
         }
       },
       "virtualKeyCode": 70
     },
     "Spider": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
