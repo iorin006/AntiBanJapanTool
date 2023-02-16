@@ -1,9 +1,9 @@
 {
   "halcyon": {
-    "configId": "420517232304312",
+    "configId": "372020232304716",
     "description": "No description assigned.",
     "formatVersion": 2,
-    "halcyonVersion": "4.1"
+    "halcyonVersion": "4.31"
   },
   "modules": {
     "Airjump": {
@@ -38,9 +38,6 @@
       "settings": {
         "Hide in list": {
           "trueFalseValue": false
-        },
-        "Rain": {
-          "modeValue": 0
         },
         "Time": {
           "numberValue": 15000.0
@@ -305,6 +302,9 @@
         "IgnoreDelay": {
           "trueFalseValue": false
         },
+        "Interact": {
+          "trueFalseValue": false
+        },
         "Mode": {
           "modeValue": 1
         },
@@ -312,7 +312,7 @@
           "modeValue": 1
         },
         "Randomization": {
-          "trueFalseValue": true
+          "modeValue": 0
         },
         "Raytrace": {
           "trueFalseValue": false
@@ -331,21 +331,6 @@
         }
       },
       "virtualKeyCode": 82
-    },
-    "AutoArmor": {
-      "enabled": true,
-      "settings": {
-        "Drop": {
-          "trueFalseValue": false
-        },
-        "Hide in list": {
-          "trueFalseValue": true
-        },
-        "Mode": {
-          "modeValue": 0
-        }
-      },
-      "virtualKeyCode": 0
     },
     "AutoClicker": {
       "enabled": false,
@@ -536,6 +521,9 @@
         "Animated search": {
           "trueFalseValue": true
         },
+        "Animation": {
+          "modeValue": 0
+        },
         "Color": {
           "modeValue": 6
         },
@@ -645,7 +633,7 @@
       "virtualKeyCode": 0
     },
     "Disabler": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
@@ -664,6 +652,9 @@
       "settings": {
         "Containers": {
           "trueFalseValue": false
+        },
+        "Entities": {
+          "trueFalseValue": true
         },
         "Fill": {
           "trueFalseValue": false
@@ -755,6 +746,9 @@
     "Fly": {
       "enabled": false,
       "settings": {
+        "Halt": {
+          "trueFalseValue": false
+        },
         "Hide in list": {
           "trueFalseValue": false
         },
@@ -829,18 +823,6 @@
         },
         "Shortcuts": {
           "trueFalseValue": true
-        }
-      },
-      "virtualKeyCode": 0
-    },
-    "Godmode": {
-      "enabled": false,
-      "settings": {
-        "Hide in list": {
-          "trueFalseValue": false
-        },
-        "Mode": {
-          "modeValue": 0
         }
       },
       "virtualKeyCode": 0
@@ -1034,32 +1016,14 @@
     "InventoryCleaner": {
       "enabled": true,
       "settings": {
-        "Drop TNT": {
-          "trueFalseValue": true
-        },
-        "Drop armor": {
-          "trueFalseValue": true
-        },
-        "Drop blocks": {
-          "trueFalseValue": true
+        "Delay": {
+          "numberValue": 100.0
         },
         "Drop bows": {
           "trueFalseValue": true
         },
-        "Drop compass": {
-          "trueFalseValue": true
-        },
-        "Drop food": {
-          "trueFalseValue": true
-        },
-        "Drop swords": {
-          "trueFalseValue": true
-        },
-        "Drop tools": {
-          "trueFalseValue": true
-        },
-        "Equip armor": {
-          "trueFalseValue": true
+        "Drop compasses": {
+          "trueFalseValue": false
         },
         "Hide in list": {
           "trueFalseValue": true
@@ -1067,14 +1031,8 @@
         "Mode": {
           "modeValue": 0
         },
-        "NoSwing": {
-          "trueFalseValue": false
-        },
-        "Sort hotbar": {
-          "trueFalseValue": true
-        },
-        "Stacks to keep": {
-          "numberValue": 4.0
+        "Swing": {
+          "modeValue": 0
         }
       },
       "virtualKeyCode": 0
@@ -1341,15 +1299,6 @@
         }
       },
       "virtualKeyCode": 9
-    },
-    "Nightmode": {
-      "enabled": false,
-      "settings": {
-        "Hide in list": {
-          "trueFalseValue": false
-        }
-      },
-      "virtualKeyCode": 0
     },
     "NoBackground": {
       "enabled": false,
@@ -1679,24 +1628,6 @@
       },
       "virtualKeyCode": 0
     },
-    "RainbowSky": {
-      "enabled": false,
-      "settings": {
-        "Brightness": {
-          "numberValue": 10.0
-        },
-        "Hide in list": {
-          "trueFalseValue": false
-        },
-        "Saturation": {
-          "numberValue": 10.0
-        },
-        "Speed": {
-          "numberValue": 5.0
-        }
-      },
-      "virtualKeyCode": 0
-    },
     "RapidHit": {
       "enabled": false,
       "settings": {
@@ -1710,13 +1641,19 @@
       "enabled": false,
       "settings": {
         "Distance": {
-          "numberValue": 2.009999990463257
+          "numberValue": 3.059999942779541
         },
         "Hide in list": {
           "trueFalseValue": false
         },
+        "IgnoreFace": {
+          "trueFalseValue": false
+        },
         "Mode": {
           "modeValue": 0
+        },
+        "Render": {
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 86
@@ -1733,6 +1670,9 @@
     "Scaffold": {
       "enabled": false,
       "settings": {
+        "Authority": {
+          "modeValue": 0
+        },
         "Blocks left": {
           "modeValue": 0
         },
@@ -1745,6 +1685,9 @@
         "ExtendVal": {
           "numberValue": 3.015000104904175
         },
+        "GroundOnly": {
+          "trueFalseValue": false
+        },
         "Hide in list": {
           "trueFalseValue": false
         },
@@ -1754,11 +1697,14 @@
         "Legit": {
           "trueFalseValue": false
         },
+        "NoAura": {
+          "trueFalseValue": false
+        },
         "NoSwing": {
           "trueFalseValue": false
         },
         "Places": {
-          "numberValue": 1.0850000381469727
+          "numberValue": 30.06999969482422
         },
         "Priority": {
           "modeValue": 1
@@ -1772,6 +1718,9 @@
         "Telly": {
           "trueFalseValue": false
         },
+        "TickGap": {
+          "numberValue": 0.0
+        },
         "Timer boost": {
           "trueFalseValue": true
         },
@@ -1779,13 +1728,37 @@
           "numberValue": 18.44499969482422
         },
         "Tower": {
-          "modeValue": 2
+          "modeValue": 3
         },
         "Zipline": {
           "trueFalseValue": false
         }
       },
       "virtualKeyCode": 67
+    },
+    "ServerRotations": {
+      "enabled": false,
+      "settings": {
+        "BodyEase": {
+          "numberValue": 1.0
+        },
+        "HeadEase": {
+          "numberValue": 1.0
+        },
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "NoBodyYawLag": {
+          "trueFalseValue": false
+        },
+        "NoEase": {
+          "trueFalseValue": false
+        },
+        "PitchEase": {
+          "numberValue": 1.0
+        }
+      },
+      "virtualKeyCode": 0
     },
     "ServerSneak": {
       "enabled": false,
@@ -1910,6 +1883,9 @@
         "Hide in list": {
           "trueFalseValue": true
         },
+        "Mode": {
+          "modeValue": 0
+        },
         "Speed": {
           "numberValue": 3.015000104904175
         }
@@ -1921,9 +1897,6 @@
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
-        },
-        "Mode": {
-          "modeValue": 0
         }
       },
       "virtualKeyCode": 0
@@ -1997,8 +1970,20 @@
     "TargetHUD": {
       "enabled": false,
       "settings": {
+        "3D": {
+          "trueFalseValue": false
+        },
+        "Eased": {
+          "trueFalseValue": false
+        },
         "Hide in list": {
           "trueFalseValue": false
+        },
+        "Scale": {
+          "trueFalseValue": false
+        },
+        "ScaleVal": {
+          "numberValue": 4.0
         },
         "Style": {
           "modeValue": 2
@@ -2128,21 +2113,6 @@
         },
         "Version": {
           "trueFalseValue": true
-        }
-      },
-      "virtualKeyCode": 0
-    },
-    "Zoom": {
-      "enabled": false,
-      "settings": {
-        "Hide in list": {
-          "trueFalseValue": false
-        },
-        "Reverse": {
-          "trueFalseValue": false
-        },
-        "Zoom": {
-          "numberValue": 40.0
         }
       },
       "virtualKeyCode": 0
