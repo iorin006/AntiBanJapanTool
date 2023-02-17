@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "372020232304716",
+    "configId": "122920232304817",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.31"
@@ -309,7 +309,7 @@
           "modeValue": 1
         },
         "Projectiles": {
-          "modeValue": 1
+          "modeValue": 0
         },
         "Randomization": {
           "modeValue": 0
@@ -492,7 +492,7 @@
       "enabled": true,
       "settings": {
         "Delay": {
-          "numberValue": 44.44444274902344
+          "numberValue": 79.91999816894531
         },
         "Hide in list": {
           "trueFalseValue": true
@@ -975,7 +975,7 @@
           "modeValue": 1
         }
       },
-      "virtualKeyCode": 71
+      "virtualKeyCode": 0
     },
     "InteractSpam": {
       "enabled": false,
@@ -1029,7 +1029,7 @@
           "trueFalseValue": true
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 1
         },
         "Swing": {
           "modeValue": 0
@@ -1710,7 +1710,7 @@
           "modeValue": 1
         },
         "Rots": {
-          "modeValue": 2
+          "modeValue": 1
         },
         "Switch": {
           "modeValue": 0
@@ -1872,13 +1872,13 @@
           "numberValue": 21.0
         },
         "Value": {
-          "numberValue": 5.130000114440918
+          "numberValue": 4.940000057220459
         }
       },
       "virtualKeyCode": 70
     },
     "Spider": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
