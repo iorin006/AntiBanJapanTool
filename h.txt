@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "122920232304817",
+    "configId": "565920232305221",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.31"
@@ -234,7 +234,7 @@
           "trueFalseValue": true
         },
         "Fancy": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Glow": {
           "trueFalseValue": true
@@ -264,7 +264,7 @@
           "numberValue": 1.3212499618530273
         },
         "Style": {
-          "modeValue": 1
+          "modeValue": 0
         },
         "Timescale": {
           "numberValue": 4.02222204208374
@@ -1641,7 +1641,7 @@
       "enabled": false,
       "settings": {
         "Distance": {
-          "numberValue": 3.059999942779541
+          "numberValue": 5.699999809265137
         },
         "Hide in list": {
           "trueFalseValue": false
@@ -1650,7 +1650,7 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 1
         },
         "Render": {
           "trueFalseValue": true
@@ -1854,7 +1854,7 @@
           "trueFalseValue": true
         },
         "Randomize": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "ResetFriction": {
           "trueFalseValue": false
@@ -1878,7 +1878,7 @@
       "virtualKeyCode": 70
     },
     "Spider": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
