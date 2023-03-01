@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "565920232305221",
+    "configId": "252921232306001",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.31"
@@ -185,8 +185,8 @@
       "sceneElement": {
         "Position": {
           "_locked": true,
-          "translatedX": 348.5,
-          "translatedY": 307.1000061035156
+          "translatedX": 327.0,
+          "translatedY": 280.5
         }
       },
       "settings": {
@@ -210,7 +210,7 @@
       "sceneElement": {
         "List": {
           "_locked": true,
-          "translatedX": 661.8833618164063,
+          "translatedX": 618.8833618164063,
           "translatedY": 0.0
         }
       },
@@ -1170,7 +1170,7 @@
         "Blocks per Second Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 335.5
+          "translatedY": 307.5
         },
         "Coordinates Pos": {
           "_locked": true,
@@ -1758,7 +1758,7 @@
           "numberValue": 1.0
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 67
     },
     "ServerSneak": {
       "enabled": false,
@@ -1872,7 +1872,7 @@
           "numberValue": 21.0
         },
         "Value": {
-          "numberValue": 4.940000057220459
+          "numberValue": 5.130000114440918
         }
       },
       "virtualKeyCode": 70
