@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "252921232306001",
+    "configId": "254321232306001",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.31"
@@ -1758,7 +1758,7 @@
           "numberValue": 1.0
         }
       },
-      "virtualKeyCode": 67
+      "virtualKeyCode": 0
     },
     "ServerSneak": {
       "enabled": false,
