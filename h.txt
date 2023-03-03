@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "254321232306001",
+    "configId": "423920232306203",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.31"
@@ -552,7 +552,7 @@
           "trueFalseValue": true
         },
         "Style": {
-          "modeValue": 2
+          "modeValue": 0
         },
         "Tooltips": {
           "trueFalseValue": true
@@ -1641,7 +1641,7 @@
       "enabled": false,
       "settings": {
         "Distance": {
-          "numberValue": 5.699999809265137
+          "numberValue": 6.922222137451172
         },
         "Hide in list": {
           "trueFalseValue": false
@@ -1704,13 +1704,13 @@
           "trueFalseValue": false
         },
         "Places": {
-          "numberValue": 30.06999969482422
+          "numberValue": 1.0666667222976685
         },
         "Priority": {
           "modeValue": 1
         },
         "Rots": {
-          "modeValue": 1
+          "modeValue": 2
         },
         "Switch": {
           "modeValue": 0
@@ -1740,22 +1740,22 @@
       "enabled": false,
       "settings": {
         "BodyEase": {
-          "numberValue": 1.0
+          "numberValue": 6.516666889190674
         },
         "HeadEase": {
-          "numberValue": 1.0
+          "numberValue": 5.5722222328186035
         },
         "Hide in list": {
           "trueFalseValue": false
         },
         "NoBodyYawLag": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "NoEase": {
           "trueFalseValue": false
         },
         "PitchEase": {
-          "numberValue": 1.0
+          "numberValue": 6.988888740539551
         }
       },
       "virtualKeyCode": 0
@@ -1833,7 +1833,7 @@
       "enabled": false,
       "settings": {
         "Halt": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Height": {
           "numberValue": 4.05555534362793
@@ -1848,13 +1848,13 @@
           "modeValue": 2
         },
         "NoStep": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Packet": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Randomize": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "ResetFriction": {
           "trueFalseValue": false
@@ -1863,7 +1863,7 @@
           "numberValue": 5.0
         },
         "Rotate": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Timer boost": {
           "trueFalseValue": true
