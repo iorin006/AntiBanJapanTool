@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "423920232306203",
+    "configId": "022517232306506",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.31"
@@ -219,7 +219,7 @@
           "modeValue": 0
         },
         "Bloom": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Brightness": {
           "numberValue": 10.0
@@ -237,7 +237,7 @@
           "trueFalseValue": true
         },
         "Glow": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Hide in list": {
           "trueFalseValue": true
@@ -249,13 +249,13 @@
           "numberValue": 21.116666793823242
         },
         "PostProcessing": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Saturation": {
           "numberValue": 2.8333332538604736
         },
         "Shadow": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "SolidWave": {
           "trueFalseValue": true
@@ -327,7 +327,7 @@
           "numberValue": 12.066666603088379
         },
         "Target Range": {
-          "numberValue": 4.014999866485596
+          "numberValue": 7.066666603088379
         }
       },
       "virtualKeyCode": 82
@@ -492,7 +492,7 @@
       "enabled": true,
       "settings": {
         "Delay": {
-          "numberValue": 79.91999816894531
+          "numberValue": 33.33333206176758
         },
         "Hide in list": {
           "trueFalseValue": true
@@ -618,10 +618,10 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 4
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 67
     },
     "DeviceIDSpoof": {
       "enabled": false,
@@ -1129,13 +1129,13 @@
       "virtualKeyCode": 0
     },
     "Killsults": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "AutoGG": {
           "trueFalseValue": true
         },
         "Delay": {
-          "numberValue": 149.98500061035156
+          "numberValue": 0.0
         },
         "Format": {
           "modeValue": 0
@@ -1283,7 +1283,7 @@
           "trueFalseValue": false
         },
         "Scale": {
-          "numberValue": -0.1111111119389534
+          "numberValue": 6.222222328186035
         },
         "Self": {
           "trueFalseValue": true
@@ -1701,10 +1701,10 @@
           "trueFalseValue": false
         },
         "NoSwing": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Places": {
-          "numberValue": 1.0666667222976685
+          "numberValue": 32.0
         },
         "Priority": {
           "modeValue": 1
@@ -1728,7 +1728,7 @@
           "numberValue": 18.44499969482422
         },
         "Tower": {
-          "modeValue": 3
+          "modeValue": 0
         },
         "Zipline": {
           "trueFalseValue": false
@@ -1737,7 +1737,7 @@
       "virtualKeyCode": 67
     },
     "ServerRotations": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "BodyEase": {
           "numberValue": 6.516666889190674
@@ -1746,7 +1746,7 @@
           "numberValue": 5.5722222328186035
         },
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "NoBodyYawLag": {
           "trueFalseValue": true
@@ -1833,7 +1833,7 @@
       "enabled": false,
       "settings": {
         "Halt": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Height": {
           "numberValue": 4.05555534362793
@@ -1848,10 +1848,10 @@
           "modeValue": 2
         },
         "NoStep": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Packet": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Randomize": {
           "trueFalseValue": true
@@ -1863,7 +1863,7 @@
           "numberValue": 5.0
         },
         "Rotate": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Timer boost": {
           "trueFalseValue": true
