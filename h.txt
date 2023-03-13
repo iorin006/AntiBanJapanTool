@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "022517232306506",
+    "configId": "150916232307112",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.31"
@@ -327,7 +327,7 @@
           "numberValue": 12.066666603088379
         },
         "Target Range": {
-          "numberValue": 7.066666603088379
+          "numberValue": 4.0
         }
       },
       "virtualKeyCode": 82
