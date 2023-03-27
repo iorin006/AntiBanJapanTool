@@ -1,9 +1,9 @@
 {
   "halcyon": {
-    "configId": "150916232307112",
+    "configId": "125619232308627",
     "description": "No description assigned.",
     "formatVersion": 2,
-    "halcyonVersion": "4.31"
+    "halcyonVersion": "4.42"
   },
   "modules": {
     "Airjump": {
@@ -311,6 +311,9 @@
         "Projectiles": {
           "modeValue": 0
         },
+        "RandomAPS": {
+          "trueFalseValue": false
+        },
         "Randomization": {
           "modeValue": 0
         },
@@ -411,10 +414,10 @@
       "virtualKeyCode": 0
     },
     "AutoQueue": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 0
@@ -614,6 +617,9 @@
     "Derp": {
       "enabled": false,
       "settings": {
+        "AuraOnly": {
+          "trueFalseValue": false
+        },
         "Hide in list": {
           "trueFalseValue": false
         },
@@ -623,20 +629,14 @@
       },
       "virtualKeyCode": 67
     },
-    "DeviceIDSpoof": {
-      "enabled": false,
-      "settings": {
-        "Hide in list": {
-          "trueFalseValue": false
-        }
-      },
-      "virtualKeyCode": 0
-    },
     "Disabler": {
       "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
+        },
+        "InteractTests": {
+          "modeValue": 0
         },
         "Mode": {
           "modeValue": 3
@@ -747,13 +747,19 @@
       "enabled": false,
       "settings": {
         "Halt": {
-          "trueFalseValue": false
+          "modeValue": 0
         },
         "Hide in list": {
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 3
+        },
+        "Responsive": {
+          "trueFalseValue": false
+        },
+        "Test": {
+          "trueFalseValue": false
         },
         "Timer boost": {
           "trueFalseValue": false
@@ -762,7 +768,10 @@
           "numberValue": 12.666666984558105
         },
         "Value": {
-          "numberValue": 18.524999618530273
+          "numberValue": 5.777777671813965
+        },
+        "Vehicles": {
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 0
@@ -858,6 +867,9 @@
           "trueFalseValue": true
         },
         "SpeedA": {
+          "trueFalseValue": true
+        },
+        "SpeedB": {
           "trueFalseValue": true
         }
       },
@@ -1028,8 +1040,14 @@
         "Hide in list": {
           "trueFalseValue": true
         },
+        "InventoryOnly": {
+          "trueFalseValue": false
+        },
         "Mode": {
           "modeValue": 1
+        },
+        "SlotOperations": {
+          "modeValue": 0
         },
         "Swing": {
           "modeValue": 0
@@ -1137,6 +1155,9 @@
         "Delay": {
           "numberValue": 0.0
         },
+        "Duplicates": {
+          "trueFalseValue": false
+        },
         "Format": {
           "modeValue": 0
         },
@@ -1151,6 +1172,9 @@
         },
         "Mode": {
           "modeValue": 6
+        },
+        "ScreenRender": {
+          "modeValue": 0
         },
         "Server": {
           "modeValue": 0
@@ -1220,19 +1244,19 @@
           "trueFalseValue": false
         },
         "Height": {
-          "numberValue": 4.0
+          "numberValue": 0.2222222238779068
         },
         "Hide in list": {
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 2
         },
         "Slow": {
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 5.0
+          "numberValue": 10.0
         }
       },
       "virtualKeyCode": 0
@@ -1309,6 +1333,18 @@
       },
       "virtualKeyCode": 0
     },
+    "NoBobbing": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        }
+      },
+      "virtualKeyCode": 0
+    },
     "NoCameraClip": {
       "enabled": true,
       "settings": {
@@ -1370,15 +1406,6 @@
       "virtualKeyCode": 0
     },
     "NoHurtcam": {
-      "enabled": false,
-      "settings": {
-        "Hide in list": {
-          "trueFalseValue": false
-        }
-      },
-      "virtualKeyCode": 0
-    },
-    "NoItemBob": {
       "enabled": false,
       "settings": {
         "Hide in list": {
@@ -1593,6 +1620,9 @@
         },
         "Value": {
           "numberValue": 2.0
+        },
+        "Vehicles": {
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 0
@@ -1654,6 +1684,9 @@
         },
         "Render": {
           "trueFalseValue": true
+        },
+        "Swing": {
+          "modeValue": 0
         }
       },
       "virtualKeyCode": 86
@@ -1683,7 +1716,7 @@
           "trueFalseValue": true
         },
         "ExtendVal": {
-          "numberValue": 3.015000104904175
+          "numberValue": 4.0
         },
         "GroundOnly": {
           "trueFalseValue": false
@@ -1698,9 +1731,6 @@
           "trueFalseValue": false
         },
         "NoAura": {
-          "trueFalseValue": false
-        },
-        "NoSwing": {
           "trueFalseValue": true
         },
         "Places": {
@@ -1711,6 +1741,9 @@
         },
         "Rots": {
           "modeValue": 2
+        },
+        "Swing": {
+          "modeValue": 0
         },
         "Switch": {
           "modeValue": 0
@@ -1825,6 +1858,15 @@
         },
         "Hide in list": {
           "trueFalseValue": false
+        },
+        "Mode": {
+          "modeValue": 0
+        },
+        "Order": {
+          "modeValue": 0
+        },
+        "Randomization": {
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 0
@@ -1862,6 +1904,9 @@
         "ResetValue": {
           "numberValue": 5.0
         },
+        "Responsive": {
+          "trueFalseValue": false
+        },
         "Rotate": {
           "trueFalseValue": true
         },
@@ -1873,6 +1918,9 @@
         },
         "Value": {
           "numberValue": 5.130000114440918
+        },
+        "Vehicles": {
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 70
@@ -1924,6 +1972,9 @@
         },
         "Mode": {
           "modeValue": 0
+        },
+        "Vehicles": {
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 0
@@ -1947,7 +1998,7 @@
       "enabled": false,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Hive": {
           "trueFalseValue": true
@@ -1987,6 +2038,21 @@
         },
         "Style": {
           "modeValue": 2
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "TargetStrafe": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "Range": {
+          "trueFalseValue": false
+        },
+        "RangeVal": {
+          "numberValue": 3.0
         }
       },
       "virtualKeyCode": 0
@@ -2045,6 +2111,15 @@
       },
       "virtualKeyCode": 0
     },
+    "Trail": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        }
+      },
+      "virtualKeyCode": 0
+    },
     "Triggerbot": {
       "enabled": false,
       "settings": {
@@ -2086,6 +2161,24 @@
         },
         "Vertical": {
           "numberValue": 85.55555725097656
+        }
+      },
+      "virtualKeyCode": 0
+    },
+    "Viewmodel": {
+      "enabled": false,
+      "settings": {
+        "Hide in list": {
+          "trueFalseValue": false
+        },
+        "X": {
+          "numberValue": 25.0
+        },
+        "Y": {
+          "numberValue": 25.0
+        },
+        "Z": {
+          "numberValue": 25.0
         }
       },
       "virtualKeyCode": 0
