@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "125619232308627",
+    "configId": "382313232309606",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -282,7 +282,7 @@
       "enabled": false,
       "settings": {
         "APS": {
-          "numberValue": 10.11111068725586
+          "numberValue": 8.0
         },
         "AutoSword": {
           "modeValue": 1
@@ -312,7 +312,7 @@
           "modeValue": 0
         },
         "RandomAPS": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Randomization": {
           "modeValue": 0
@@ -327,10 +327,10 @@
           "trueFalseValue": false
         },
         "Swing Range": {
-          "numberValue": 12.066666603088379
+          "numberValue": 12.0
         },
         "Target Range": {
-          "numberValue": 4.0
+          "numberValue": 5.066666603088379
         }
       },
       "virtualKeyCode": 82
@@ -375,10 +375,10 @@
       "virtualKeyCode": 0
     },
     "AutoLootbox": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -441,7 +441,7 @@
           "trueFalseValue": true
         },
         "Spoof": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 0
@@ -768,13 +768,13 @@
           "numberValue": 12.666666984558105
         },
         "Value": {
-          "numberValue": 5.777777671813965
+          "numberValue": 2.0
         },
         "Vehicles": {
           "trueFalseValue": false
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 71
     },
     "Franky": {
       "enabled": false,
@@ -1150,7 +1150,7 @@
       "enabled": false,
       "settings": {
         "AutoGG": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Delay": {
           "numberValue": 0.0
@@ -1259,7 +1259,7 @@
           "numberValue": 10.0
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 71
     },
     "LoudActions": {
       "enabled": false,
@@ -1758,7 +1758,7 @@
           "trueFalseValue": true
         },
         "TimerBoost": {
-          "numberValue": 18.44499969482422
+          "numberValue": 18.66666603088379
         },
         "Tower": {
           "modeValue": 0
@@ -2094,10 +2094,10 @@
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 13.6850004196167
+          "numberValue": 6.666666507720947
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 71
     },
     "ToggleSounds": {
       "enabled": false,
