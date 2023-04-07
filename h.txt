@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "382313232309606",
+    "configId": "244514232309707",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -330,7 +330,7 @@
           "numberValue": 12.0
         },
         "Target Range": {
-          "numberValue": 5.066666603088379
+          "numberValue": 4.5333333015441895
         }
       },
       "virtualKeyCode": 82
@@ -768,7 +768,7 @@
           "numberValue": 12.666666984558105
         },
         "Value": {
-          "numberValue": 2.0
+          "numberValue": 2.6666667461395264
         },
         "Vehicles": {
           "trueFalseValue": false
@@ -1613,13 +1613,13 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 1
         },
         "Negative": {
           "trueFalseValue": false
         },
         "Value": {
-          "numberValue": 2.0
+          "numberValue": 1.0499999523162842
         },
         "Vehicles": {
           "trueFalseValue": false
@@ -2094,7 +2094,7 @@
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 6.666666507720947
+          "numberValue": 16.0
         }
       },
       "virtualKeyCode": 71
