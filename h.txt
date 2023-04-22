@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "244514232309707",
+    "configId": "283921232310515",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -282,7 +282,7 @@
       "enabled": false,
       "settings": {
         "APS": {
-          "numberValue": 8.0
+          "numberValue": 10.0
         },
         "AutoSword": {
           "modeValue": 1
@@ -1147,7 +1147,7 @@
       "virtualKeyCode": 0
     },
     "Killsults": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "AutoGG": {
           "trueFalseValue": false
@@ -1171,7 +1171,7 @@
           "trueFalseValue": true
         },
         "Mode": {
-          "modeValue": 6
+          "modeValue": 0
         },
         "ScreenRender": {
           "modeValue": 0
@@ -2094,7 +2094,7 @@
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 16.0
+          "numberValue": 8.0
         }
       },
       "virtualKeyCode": 71
