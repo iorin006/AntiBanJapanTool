@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "033714232311323",
+    "configId": "324919232311626",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.5
+          "translatedY": 280.0
         }
       },
       "settings": {
@@ -327,7 +327,7 @@
           "trueFalseValue": false
         },
         "Swing Range": {
-          "numberValue": 12.0
+          "numberValue": 6.0
         },
         "Target Range": {
           "numberValue": 4.5333333015441895
@@ -1130,7 +1130,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 0.0,
-          "translatedY": 384.0
+          "translatedY": 320.0
         }
       },
       "settings": {
@@ -1716,7 +1716,7 @@
           "trueFalseValue": true
         },
         "ExtendVal": {
-          "numberValue": 4.0
+          "numberValue": 3.0
         },
         "GroundOnly": {
           "trueFalseValue": false
@@ -1755,7 +1755,7 @@
           "numberValue": 0.0
         },
         "Timer boost": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "TimerBoost": {
           "numberValue": 18.66666603088379
@@ -1875,7 +1875,7 @@
       "enabled": false,
       "settings": {
         "Halt": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Height": {
           "numberValue": 4.05555534362793
@@ -1890,10 +1890,10 @@
           "modeValue": 2
         },
         "NoStep": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Packet": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Randomize": {
           "trueFalseValue": true
