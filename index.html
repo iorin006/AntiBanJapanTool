@@ -19,19 +19,24 @@
         <p class="subtitle" id="timeid"></p>
     </center>
     <script>
-        const time = document.getElementById("timeid")
-        const setTime = new Date("2023-04-26T21:37:00"); // 設定した時間を取得
-        const now = new Date(); // 現在の時間を取得
-        const diffMs = now - setTime; // 差分を計算（ミリ秒単位）
-        const diffMin = diffMs / (1000 * 60); // 分単位の差分
-        const diffHr = diffMs / (1000 * 60 * 60); // 時間単位の差分
-        const diffDay = diffMs / (1000 * 60 * 60 * 24); // 日単位の差分
+        setInterval(() => {
+            const time = document.getElementById("timeid")
+            const setTime = new Date("2023-04-27T14:40:00"); // 設定した時間を取得
+            const now = new Date(); // 現在の時間を取得
+            const diffMs = now - setTime; // 差分を計算（ミリ秒単位）
+            const diffSe = diffMs / 1000
+            const diffMin = diffMs / (1000 * 60); // 分単位の差分
+            const diffHr = diffMs / (1000 * 60 * 60); // 時間単位の差分
+            const diffDay = diffMs / (1000 * 60 * 60 * 24); // 日単位の差分
 
-        const diffDayInt = Math.floor(diffDay); // 小数点以下を切り捨てて整数に変換
-        const diffHrInt = Math.floor(diffHr % 24); // 24時間を超えた分を取得し、小数点以下を切り捨てて整数に変換
-        const diffMinInt = Math.floor(diffMin % 60); // 60分を超えた分を取得し、小数点以下を切り捨てて整数に変換
+            const diffDayInt = Math.floor(diffDay); // 小数点以下を切り捨てて整数に変換
+            const diffHrInt = Math.floor(diffHr % 24); // 24時間を超えた分を取得し、小数点以下を切り捨てて整数に変換
+            const diffMinInt = Math.floor(diffMin % 60); // 60分を超えた分を取得し、小数点以下を切り捨てて整数に変換
+            const diffSeInt = Math.floor(diffSe % 60)
 
-        time.innerText = ("更新から" + diffDayInt + "日" + diffHrInt + "時間" + diffMinInt + "分"); // 設定した時間から何時間立っているかを表示
+            time.innerText = ("更新から" + diffDayInt + "日" + diffHrInt + "時間" + diffMinInt + "分" + diffSeInt + "秒"); // 設定した時間から何時間立っているかを表示
+        }, 50);
+
 
     </script>
     <div class="grid"><a class='button' href="Csave.exe" download style="background-color: rgb(79,179,100)">Auto
