@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "540321232311626",
+    "configId": "331421232311828",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.0
+          "translatedY": 280.5
         }
       },
       "settings": {
@@ -1101,7 +1101,7 @@
       "virtualKeyCode": 0
     },
     "Jesus": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
@@ -1147,7 +1147,7 @@
       "virtualKeyCode": 0
     },
     "Killsults": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "AutoGG": {
           "trueFalseValue": false
@@ -1716,7 +1716,7 @@
           "trueFalseValue": true
         },
         "ExtendVal": {
-          "numberValue": 3.0
+          "numberValue": 4.0
         },
         "GroundOnly": {
           "trueFalseValue": false
@@ -1875,7 +1875,7 @@
       "enabled": false,
       "settings": {
         "Halt": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Height": {
           "numberValue": 4.05555534362793
@@ -1893,7 +1893,7 @@
           "trueFalseValue": true
         },
         "Packet": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Randomize": {
           "trueFalseValue": true
