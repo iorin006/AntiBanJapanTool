@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "331421232311828",
+    "configId": "155813232311929",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.5
+          "translatedY": 280.0
         }
       },
       "settings": {
@@ -288,7 +288,7 @@
           "modeValue": 1
         },
         "DynamicRange": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "FOV": {
           "numberValue": 360.0
@@ -303,7 +303,7 @@
           "trueFalseValue": false
         },
         "Interact": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Mode": {
           "modeValue": 1
@@ -315,7 +315,7 @@
           "trueFalseValue": true
         },
         "Randomization": {
-          "modeValue": 1
+          "modeValue": 2
         },
         "Raytrace": {
           "trueFalseValue": false
@@ -1755,7 +1755,7 @@
           "numberValue": 0.0
         },
         "Timer boost": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "TimerBoost": {
           "numberValue": 18.66666603088379
