@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "155813232311929",
+    "configId": "355410232312030",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -291,7 +291,7 @@
           "trueFalseValue": true
         },
         "FOV": {
-          "numberValue": 360.0
+          "numberValue": 180.0
         },
         "Hide in list": {
           "trueFalseValue": false
@@ -327,10 +327,10 @@
           "trueFalseValue": false
         },
         "Swing Range": {
-          "numberValue": 6.0
+          "numberValue": 12.0
         },
         "Target Range": {
-          "numberValue": 4.5333333015441895
+          "numberValue": 5.066666603088379
         }
       },
       "virtualKeyCode": 82
@@ -1914,7 +1914,7 @@
           "trueFalseValue": true
         },
         "TimerBoost": {
-          "numberValue": 21.0
+          "numberValue": 21.33333396911621
         },
         "Value": {
           "numberValue": 7.111111164093018
