@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "241915232312030",
+    "configId": "283820232312030",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -1917,7 +1917,7 @@
           "numberValue": 21.33333396911621
         },
         "Value": {
-          "numberValue": 7.111111164093018
+          "numberValue": 6.888888835906982
         },
         "Vehicles": {
           "trueFalseValue": false
