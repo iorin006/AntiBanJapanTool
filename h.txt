@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "283820232312030",
+    "configId": "513709232312101",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.5
+          "translatedY": 318.5
         }
       },
       "settings": {
@@ -282,7 +282,7 @@
       "enabled": false,
       "settings": {
         "APS": {
-          "numberValue": 8.0
+          "numberValue": 10.0
         },
         "AutoSword": {
           "modeValue": 1
@@ -330,7 +330,7 @@
           "numberValue": 12.0
         },
         "Target Range": {
-          "numberValue": 5.066666603088379
+          "numberValue": 5.599999904632568
         }
       },
       "virtualKeyCode": 82
@@ -1194,7 +1194,7 @@
         "Blocks per Second Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 307.5
+          "translatedY": 347.5
         },
         "Coordinates Pos": {
           "_locked": true,
