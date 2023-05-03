@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "513709232312101",
+    "configId": "021515232312303",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 318.5
+          "translatedY": 280.5
         }
       },
       "settings": {
@@ -306,7 +306,7 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 1
+          "modeValue": 2
         },
         "Projectiles": {
           "modeValue": 0
@@ -330,7 +330,7 @@
           "numberValue": 12.0
         },
         "Target Range": {
-          "numberValue": 5.599999904632568
+          "numberValue": 6.0
         }
       },
       "virtualKeyCode": 82
@@ -627,7 +627,7 @@
           "modeValue": 4
         }
       },
-      "virtualKeyCode": 67
+      "virtualKeyCode": 0
     },
     "Disabler": {
       "enabled": false,
@@ -1147,7 +1147,7 @@
       "virtualKeyCode": 0
     },
     "Killsults": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "AutoGG": {
           "trueFalseValue": false
@@ -1171,7 +1171,7 @@
           "trueFalseValue": true
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 6
         },
         "ScreenRender": {
           "modeValue": 0
@@ -1183,7 +1183,7 @@
           "modeValue": 0
         },
         "Unicode": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         }
       },
       "virtualKeyCode": 0
@@ -1194,7 +1194,7 @@
         "Blocks per Second Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 347.5
+          "translatedY": 307.5
         },
         "Coordinates Pos": {
           "_locked": true,
@@ -1310,7 +1310,7 @@
           "numberValue": 6.222222328186035
         },
         "Self": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Static": {
           "trueFalseValue": true
