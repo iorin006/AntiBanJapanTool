@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "182115232312101",
+    "configId": "414310232312606",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -31,16 +31,16 @@
           "trueFalseValue": false
         }
       },
-      "virtualKeyCode": 89
+      "virtualKeyCode": 0
     },
     "Ambience": {
       "enabled": false,
       "settings": {
         "Hide in list": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Time": {
-          "numberValue": 15000.0
+          "numberValue": 16000.533203125
         }
       },
       "virtualKeyCode": 0
@@ -210,7 +210,7 @@
       "sceneElement": {
         "List": {
           "_locked": true,
-          "translatedX": 939.0,
+          "translatedX": 960.0,
           "translatedY": 0.0
         }
       },
@@ -228,13 +228,13 @@
           "trueFalseValue": false
         },
         "Color": {
-          "modeValue": 2
+          "modeValue": 0
         },
         "Fade": {
           "trueFalseValue": true
         },
         "Fancy": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Glow": {
           "trueFalseValue": true
@@ -246,7 +246,7 @@
           "trueFalseValue": true
         },
         "Offset": {
-          "numberValue": 21.0
+          "numberValue": 0.0
         },
         "PostProcessing": {
           "trueFalseValue": true
@@ -255,7 +255,7 @@
           "numberValue": 10.0
         },
         "Shadow": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "SolidWave": {
           "trueFalseValue": false
@@ -264,7 +264,7 @@
           "numberValue": 3.0916666984558105
         },
         "Style": {
-          "modeValue": 0
+          "modeValue": 1
         },
         "Timescale": {
           "numberValue": 1.5555555820465088
@@ -507,7 +507,7 @@
           "trueFalseValue": true
         }
       },
-      "virtualKeyCode": 74
+      "virtualKeyCode": 0
     },
     "ChunkBorders": {
       "enabled": false,
@@ -624,7 +624,7 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 2
+          "modeValue": 4
         }
       },
       "virtualKeyCode": 86
@@ -690,7 +690,7 @@
       "enabled": true,
       "settings": {
         "Edition": {
-          "modeValue": 12
+          "modeValue": 4
         },
         "Hide in list": {
           "trueFalseValue": true
@@ -753,7 +753,7 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 0
+          "modeValue": 3
         },
         "Responsive": {
           "trueFalseValue": false
@@ -768,7 +768,7 @@
           "numberValue": 120.0
         },
         "Value": {
-          "numberValue": 20.0
+          "numberValue": 4.222222328186035
         },
         "Vehicles": {
           "trueFalseValue": true
@@ -903,7 +903,7 @@
       "virtualKeyCode": 0
     },
     "HitSounds": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
@@ -1214,7 +1214,7 @@
       },
       "settings": {
         "Average BPS": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "BPS": {
           "trueFalseValue": true
@@ -1256,7 +1256,7 @@
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 10.0
+          "numberValue": 5.111111164093018
         }
       },
       "virtualKeyCode": 0
@@ -1559,7 +1559,7 @@
       "virtualKeyCode": 0
     },
     "OldSwim": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
@@ -1619,13 +1619,13 @@
           "trueFalseValue": false
         },
         "Value": {
-          "numberValue": 2.0
+          "numberValue": 1.0499999523162842
         },
         "Vehicles": {
           "trueFalseValue": false
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 84
     },
     "ProtocolSpoof": {
       "enabled": false,
@@ -1710,10 +1710,10 @@
           "modeValue": 1
         },
         "Distance": {
-          "numberValue": 4.0
+          "numberValue": 10.0
         },
         "Extend": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "ExtendVal": {
           "numberValue": 2.0
@@ -1734,7 +1734,7 @@
           "trueFalseValue": true
         },
         "Places": {
-          "numberValue": 6.044444561004639
+          "numberValue": 1.0666667222976685
         },
         "Priority": {
           "modeValue": 0
@@ -1752,7 +1752,7 @@
           "trueFalseValue": false
         },
         "TickGap": {
-          "numberValue": 2.0999999046325684
+          "numberValue": 0.0
         },
         "Timer boost": {
           "trueFalseValue": false
@@ -1776,7 +1776,7 @@
           "numberValue": 5.005555629730225
         },
         "HeadEase": {
-          "numberValue": 4.061110973358154
+          "numberValue": 3.0222222805023193
         },
         "Hide in list": {
           "trueFalseValue": true
@@ -1914,7 +1914,7 @@
           "trueFalseValue": true
         },
         "TimerBoost": {
-          "numberValue": 18.66666603088379
+          "numberValue": 17.5
         },
         "Value": {
           "numberValue": 6.0
@@ -2094,7 +2094,7 @@
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 5.333333492279053
+          "numberValue": 0.10000000149011612
         }
       },
       "virtualKeyCode": 0

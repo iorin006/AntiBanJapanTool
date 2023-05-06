@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "021515232312303",
+    "configId": "562109232312606",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.5
+          "translatedY": 280.0
         }
       },
       "settings": {
@@ -282,13 +282,13 @@
       "enabled": false,
       "settings": {
         "APS": {
-          "numberValue": 10.0
+          "numberValue": 8.0
         },
         "AutoSword": {
           "modeValue": 1
         },
         "DynamicRange": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "FOV": {
           "numberValue": 180.0
