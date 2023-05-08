@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "562109232312606",
+    "configId": "112620232312808",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.0
+          "translatedY": 280.5
         }
       },
       "settings": {
@@ -312,7 +312,7 @@
           "modeValue": 0
         },
         "RandomAPS": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Randomization": {
           "modeValue": 1
@@ -1183,7 +1183,7 @@
           "modeValue": 0
         },
         "Unicode": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         }
       },
       "virtualKeyCode": 0
@@ -1298,7 +1298,7 @@
           "trueFalseValue": false
         },
         "Fancy": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Health": {
           "trueFalseValue": true
@@ -1307,7 +1307,7 @@
           "trueFalseValue": false
         },
         "Scale": {
-          "numberValue": 6.222222328186035
+          "numberValue": 0.0
         },
         "Self": {
           "trueFalseValue": false
@@ -1319,7 +1319,7 @@
           "trueFalseValue": true
         },
         "Visibility": {
-          "modeValue": 0
+          "modeValue": 1
         }
       },
       "virtualKeyCode": 9
