@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "112620232312808",
+    "configId": "273116232313414",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -291,7 +291,7 @@
           "trueFalseValue": true
         },
         "FOV": {
-          "numberValue": 180.0
+          "numberValue": 360.0
         },
         "Hide in list": {
           "trueFalseValue": false
@@ -330,7 +330,7 @@
           "numberValue": 12.0
         },
         "Target Range": {
-          "numberValue": 6.0
+          "numberValue": 4.0
         }
       },
       "virtualKeyCode": 82
