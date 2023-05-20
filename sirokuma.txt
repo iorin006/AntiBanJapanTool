@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "414310232312606",
+    "configId": "143122232313919",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 487.0,
-          "translatedY": 489.5
+          "translatedY": 451.5
         }
       },
       "settings": {
@@ -462,10 +462,10 @@
       "enabled": true,
       "settings": {
         "Destroy": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Distance": {
-          "numberValue": 3.555555582046509
+          "numberValue": 10.0
         },
         "Hide in list": {
           "trueFalseValue": true
@@ -624,7 +624,7 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 4
+          "modeValue": 3
         }
       },
       "virtualKeyCode": 86
@@ -753,7 +753,7 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 3
+          "modeValue": 0
         },
         "Responsive": {
           "trueFalseValue": false
@@ -768,7 +768,7 @@
           "numberValue": 120.0
         },
         "Value": {
-          "numberValue": 4.222222328186035
+          "numberValue": 10.0
         },
         "Vehicles": {
           "trueFalseValue": true
@@ -1071,7 +1071,7 @@
           "numberValue": 15.0
         },
         "Speed value": {
-          "numberValue": 6.0
+          "numberValue": 11.0
         },
         "Swing speed": {
           "trueFalseValue": true
@@ -1194,12 +1194,12 @@
         "Blocks per Second Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 507.5
+          "translatedY": 467.5
         },
         "Coordinates Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 517.5
+          "translatedY": 477.5
         },
         "Network Info Pos": {
           "_locked": true,
@@ -1256,7 +1256,7 @@
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 5.111111164093018
+          "numberValue": 10.0
         }
       },
       "virtualKeyCode": 0
@@ -1613,19 +1613,19 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 2
+          "modeValue": 1
         },
         "Negative": {
           "trueFalseValue": false
         },
         "Value": {
-          "numberValue": 1.0499999523162842
+          "numberValue": 0.5833333134651184
         },
         "Vehicles": {
           "trueFalseValue": false
         }
       },
-      "virtualKeyCode": 84
+      "virtualKeyCode": 0
     },
     "ProtocolSpoof": {
       "enabled": false,
@@ -1716,7 +1716,7 @@
           "trueFalseValue": false
         },
         "ExtendVal": {
-          "numberValue": 2.0
+          "numberValue": 1.5555555820465088
         },
         "GroundOnly": {
           "trueFalseValue": false
@@ -1734,7 +1734,7 @@
           "trueFalseValue": true
         },
         "Places": {
-          "numberValue": 1.0666667222976685
+          "numberValue": 6.044444561004639
         },
         "Priority": {
           "modeValue": 0
@@ -1743,7 +1743,7 @@
           "modeValue": 2
         },
         "Swing": {
-          "modeValue": 0
+          "modeValue": 1
         },
         "Switch": {
           "modeValue": 3
@@ -1935,7 +1935,7 @@
           "modeValue": 0
         },
         "Speed": {
-          "numberValue": 6.0
+          "numberValue": 4.55555534362793
         }
       },
       "virtualKeyCode": 71
@@ -2076,13 +2076,13 @@
           "trueFalseValue": true
         },
         "angle": {
-          "numberValue": 20.0
+          "numberValue": 100000000.0
         },
         "anim": {
           "modeValue": 1
         },
         "size": {
-          "numberValue": 20.0
+          "numberValue": 100000000.0
         }
       },
       "virtualKeyCode": 0
@@ -2094,10 +2094,10 @@
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 0.10000000149011612
+          "numberValue": 0.0
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 84
     },
     "ToggleSounds": {
       "enabled": true,
