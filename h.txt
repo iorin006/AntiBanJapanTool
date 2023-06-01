@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "183314232314828",
+    "configId": "113413232315201",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -1914,7 +1914,7 @@
           "trueFalseValue": true
         },
         "TimerBoost": {
-          "numberValue": 21.0
+          "numberValue": 21.33333396911621
         },
         "Value": {
           "numberValue": 7.0
