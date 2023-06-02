@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "143122232313919",
+    "configId": "470300232315403",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 487.0,
-          "translatedY": 451.5
+          "translatedY": 489.5
         }
       },
       "settings": {
@@ -324,7 +324,7 @@
           "modeValue": 1
         },
         "Strafe": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Swing Range": {
           "numberValue": 3.3333332538604736
@@ -624,10 +624,10 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 3
+          "modeValue": 4
         }
       },
-      "virtualKeyCode": 86
+      "virtualKeyCode": 0
     },
     "Disabler": {
       "enabled": true,
@@ -768,7 +768,7 @@
           "numberValue": 120.0
         },
         "Value": {
-          "numberValue": 10.0
+          "numberValue": 4.0
         },
         "Vehicles": {
           "trueFalseValue": true
@@ -1194,12 +1194,12 @@
         "Blocks per Second Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 467.5
+          "translatedY": 507.5
         },
         "Coordinates Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 477.5
+          "translatedY": 517.5
         },
         "Network Info Pos": {
           "_locked": true,
@@ -1713,7 +1713,7 @@
           "numberValue": 10.0
         },
         "Extend": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "ExtendVal": {
           "numberValue": 1.5555555820465088
@@ -1734,7 +1734,7 @@
           "trueFalseValue": true
         },
         "Places": {
-          "numberValue": 6.044444561004639
+          "numberValue": 32.0
         },
         "Priority": {
           "modeValue": 0
@@ -1914,10 +1914,10 @@
           "trueFalseValue": true
         },
         "TimerBoost": {
-          "numberValue": 17.5
+          "numberValue": 18.0
         },
         "Value": {
-          "numberValue": 6.0
+          "numberValue": 5.55555534362793
         },
         "Vehicles": {
           "trueFalseValue": true
@@ -2097,7 +2097,7 @@
           "numberValue": 0.0
         }
       },
-      "virtualKeyCode": 84
+      "virtualKeyCode": 0
     },
     "ToggleSounds": {
       "enabled": true,
