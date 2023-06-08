@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "113413232315201",
+    "configId": "511211232315908",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.0
+          "translatedY": 296.0
         }
       },
       "settings": {
@@ -2088,16 +2088,16 @@
       "virtualKeyCode": 0
     },
     "Timer": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "Hide in list": {
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 8.0
+          "numberValue": 25.33333396911621
         }
       },
-      "virtualKeyCode": 71
+      "virtualKeyCode": 70
     },
     "ToggleSounds": {
       "enabled": false,
