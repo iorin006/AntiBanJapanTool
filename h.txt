@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "511211232315908",
+    "configId": "034909232316211",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -1194,12 +1194,12 @@
         "Blocks per Second Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 307.5
+          "translatedY": 297.5
         },
         "Coordinates Pos": {
           "_locked": true,
           "translatedX": 2.5,
-          "translatedY": 315.5
+          "translatedY": 307.5
         },
         "Network Info Pos": {
           "_locked": true,
@@ -1223,7 +1223,7 @@
           "trueFalseValue": true
         },
         "Ping": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "Position": {
           "trueFalseValue": false
@@ -2088,16 +2088,16 @@
       "virtualKeyCode": 0
     },
     "Timer": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 25.33333396911621
+          "numberValue": 8.0
         }
       },
-      "virtualKeyCode": 70
+      "virtualKeyCode": 71
     },
     "ToggleSounds": {
       "enabled": false,
