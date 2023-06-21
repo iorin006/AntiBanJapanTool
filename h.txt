@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "034909232316211",
+    "configId": "341819232317221",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 296.0
+          "translatedY": 280.5
         }
       },
       "settings": {
@@ -774,7 +774,7 @@
           "trueFalseValue": false
         }
       },
-      "virtualKeyCode": 71
+      "virtualKeyCode": 0
     },
     "Franky": {
       "enabled": false,
@@ -1259,7 +1259,7 @@
           "numberValue": 10.0
         }
       },
-      "virtualKeyCode": 71
+      "virtualKeyCode": 0
     },
     "LoudActions": {
       "enabled": false,
@@ -1716,7 +1716,7 @@
           "trueFalseValue": true
         },
         "ExtendVal": {
-          "numberValue": 4.0
+          "numberValue": 2.0
         },
         "GroundOnly": {
           "trueFalseValue": false
@@ -1761,7 +1761,7 @@
           "numberValue": 18.66666603088379
         },
         "Tower": {
-          "modeValue": 0
+          "modeValue": 2
         },
         "Zipline": {
           "trueFalseValue": false
@@ -1911,13 +1911,13 @@
           "trueFalseValue": true
         },
         "Timer boost": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "TimerBoost": {
           "numberValue": 21.33333396911621
         },
         "Value": {
-          "numberValue": 7.0
+          "numberValue": 4.888888835906982
         },
         "Vehicles": {
           "trueFalseValue": false
@@ -2088,16 +2088,16 @@
       "virtualKeyCode": 0
     },
     "Timer": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "Hide in list": {
           "trueFalseValue": false
         },
         "Speed": {
-          "numberValue": 8.0
+          "numberValue": 25.33333396911621
         }
       },
-      "virtualKeyCode": 71
+      "virtualKeyCode": 70
     },
     "ToggleSounds": {
       "enabled": false,
