@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "341819232317221",
+    "configId": "362319232317322",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.5
+          "translatedY": 280.0
         }
       },
       "settings": {
@@ -282,7 +282,7 @@
       "enabled": false,
       "settings": {
         "APS": {
-          "numberValue": 8.0
+          "numberValue": 6.0
         },
         "AutoSword": {
           "modeValue": 1
@@ -1752,7 +1752,7 @@
           "trueFalseValue": false
         },
         "TickGap": {
-          "numberValue": 0.0
+          "numberValue": 1.8666666746139526
         },
         "Timer boost": {
           "trueFalseValue": true
@@ -1938,7 +1938,7 @@
           "numberValue": 3.015000104904175
         }
       },
-      "virtualKeyCode": 0
+      "virtualKeyCode": 67
     },
     "Sprint": {
       "enabled": true,
