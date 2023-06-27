@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "362319232317322",
+    "configId": "365621232317827",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -1713,10 +1713,10 @@
           "numberValue": 10.05555534362793
         },
         "Extend": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "ExtendVal": {
-          "numberValue": 2.0
+          "numberValue": 0.0
         },
         "GroundOnly": {
           "trueFalseValue": false
@@ -1752,13 +1752,13 @@
           "trueFalseValue": false
         },
         "TickGap": {
-          "numberValue": 1.8666666746139526
+          "numberValue": 0.0
         },
         "Timer boost": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "TimerBoost": {
-          "numberValue": 18.66666603088379
+          "numberValue": 0.0
         },
         "Tower": {
           "modeValue": 2
