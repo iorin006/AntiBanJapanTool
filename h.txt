@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "365621232317827",
+    "configId": "173917232318201",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -327,7 +327,7 @@
           "trueFalseValue": false
         },
         "Swing Range": {
-          "numberValue": 12.0
+          "numberValue": 4.0
         },
         "Target Range": {
           "numberValue": 4.0
@@ -1713,10 +1713,10 @@
           "numberValue": 10.05555534362793
         },
         "Extend": {
-          "trueFalseValue": false
+          "trueFalseValue": true
         },
         "ExtendVal": {
-          "numberValue": 0.0
+          "numberValue": 2.0
         },
         "GroundOnly": {
           "trueFalseValue": false
@@ -1938,7 +1938,7 @@
           "numberValue": 3.015000104904175
         }
       },
-      "virtualKeyCode": 67
+      "virtualKeyCode": 0
     },
     "Sprint": {
       "enabled": true,
