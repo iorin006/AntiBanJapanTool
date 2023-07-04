@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "173917232318201",
+    "configId": "301520232318403",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -282,7 +282,7 @@
       "enabled": false,
       "settings": {
         "APS": {
-          "numberValue": 6.0
+          "numberValue": 4.0
         },
         "AutoSword": {
           "modeValue": 1
