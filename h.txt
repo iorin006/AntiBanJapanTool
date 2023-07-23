@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "301520232318403",
+    "configId": "320210232320423",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -186,7 +186,7 @@
         "Position": {
           "_locked": true,
           "translatedX": 327.0,
-          "translatedY": 280.0
+          "translatedY": 280.5
         }
       },
       "settings": {
@@ -282,7 +282,7 @@
       "enabled": false,
       "settings": {
         "APS": {
-          "numberValue": 4.0
+          "numberValue": 8.0
         },
         "AutoSword": {
           "modeValue": 1
@@ -309,7 +309,7 @@
           "modeValue": 2
         },
         "Projectiles": {
-          "modeValue": 0
+          "modeValue": 1
         },
         "RandomAPS": {
           "trueFalseValue": true
@@ -1995,7 +1995,7 @@
       "virtualKeyCode": 0
     },
     "StreamerMode": {
-      "enabled": false,
+      "enabled": true,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
