@@ -1,6 +1,6 @@
 {
   "halcyon": {
-    "configId": "320210232320423",
+    "configId": "303411232320827",
     "description": "No description assigned.",
     "formatVersion": 2,
     "halcyonVersion": "4.42"
@@ -282,7 +282,7 @@
       "enabled": false,
       "settings": {
         "APS": {
-          "numberValue": 8.0
+          "numberValue": 6.0
         },
         "AutoSword": {
           "modeValue": 1
@@ -306,13 +306,13 @@
           "trueFalseValue": false
         },
         "Mode": {
-          "modeValue": 2
+          "modeValue": 1
         },
         "Projectiles": {
           "modeValue": 1
         },
         "RandomAPS": {
-          "trueFalseValue": true
+          "trueFalseValue": false
         },
         "Randomization": {
           "modeValue": 1
@@ -327,10 +327,10 @@
           "trueFalseValue": false
         },
         "Swing Range": {
-          "numberValue": 4.0
+          "numberValue": 4.5333333015441895
         },
         "Target Range": {
-          "numberValue": 4.0
+          "numberValue": 4.5333333015441895
         }
       },
       "virtualKeyCode": 82
@@ -1995,7 +1995,7 @@
       "virtualKeyCode": 0
     },
     "StreamerMode": {
-      "enabled": true,
+      "enabled": false,
       "settings": {
         "Hide in list": {
           "trueFalseValue": true
