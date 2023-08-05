@@ -402,7 +402,7 @@
         "Multiplier": 30,
         "StrafeRange": 2.0,
         "Ticks": 4,
-        "enabled": true
+        "enabled": false
     },
     "ESP": {
         "Hide in list": false,
@@ -644,7 +644,7 @@
         "Hold": false,
         "InstaRot": false,
         "Keybind": 82,
-        "MaxAPS": 8,
+        "MaxAPS": 10,
         "MinAPS": 8,
         "Mode": 1,
         "Random": 1.0,
@@ -805,11 +805,11 @@
         "enabled": false
     },
     "Regen": {
-        "ContinueDelay": 6,
+        "ContinueDelay": 10,
         "HealthVisual": true,
         "Hide in list": false,
         "Keybind": 86,
-        "MineDelay": 10,
+        "MineDelay": 20,
         "Mode": 0,
         "Range": 10.0,
         "Visual": false,
@@ -877,11 +877,11 @@
         "JumpBoostTimer": 0,
         "JumpDelay": 0,
         "JumpTimer": 0,
-        "Keybind": 0,
+        "Keybind": 67,
         "Mode": 4,
         "NoSlabs": true,
         "Random": 0.0,
-        "Speed": 0.504042387008667,
+        "Speed": 0.4593397378921509,
         "StopBoostDelay": 0,
         "StrafeDelay": 0,
         "Timer": 20,
