@@ -647,7 +647,7 @@
         "MaxAPS": 10,
         "MinAPS": 8,
         "Mode": 1,
-        "Random": 1.0,
+        "Random": 1.9658088684082031,
         "Range": 4.048216819763184,
         "Rotations": 0,
         "Smoothing": 6.0,
