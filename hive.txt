@@ -102,16 +102,16 @@
         "enabled": false
     },
     "AutoHive": {
-        "AutoBridgeWin": true,
+        "AutoBridgeWin": false,
         "AutoLootBox": true,
         "AutoQueue": true,
         "AutoSnow": false,
-        "AutoVClip": true,
+        "AutoVClip": false,
         "Hide in list": false,
         "Keybind": 0,
         "SBDelay": 3,
         "SBRange": 6.0,
-        "enabled": false
+        "enabled": true
     },
     "AutoPlay": {
         "Distance": 1.100000023841858,
