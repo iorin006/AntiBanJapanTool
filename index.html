@@ -16,12 +16,12 @@
     </center>
     <center><img src="banner.png" alt="banner" class="Home_banner__WnS5R"></center>
     <center>
-        <p class="subtitle" id="timeid"></p>
+        <p class="subtitle" id="timeid">08:13T21:24</p>
     </center>
     <script>
         setInterval(() => {
             const time = document.getElementById("timeid")
-            const setTime = new Date("一時的に活動停止します"); // 設定した時間を取得
+            const setTime = new Date(""); // 設定した時間を取得
             const now = new Date(); // 現在の時間を取得
             const diffMs = now - setTime; // 差分を計算（ミリ秒単位）
             const diffSe = diffMs / 1000
