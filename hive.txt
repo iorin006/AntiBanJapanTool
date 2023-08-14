@@ -644,12 +644,12 @@
         "Hold": false,
         "InstaRot": false,
         "Keybind": 82,
-        "MaxAPS": 12,
-        "MinAPS": 9,
+        "MaxAPS": 10,
+        "MinAPS": 8,
         "Mode": 1,
         "Random": 3.418800115585327,
         "Range": 4.048216819763184,
-        "Rotations": 0,
+        "Rotations": 2,
         "Smoothing": 6.0,
         "Strafe": false,
         "VisualRange": false,
@@ -971,7 +971,7 @@
     "Timer": {
         "Hide in list": false,
         "Keybind": 0,
-        "TPS": 25,
+        "TPS": 24,
         "enabled": true
     },
     "ToggleSounds": {
