@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AntiBanJapanTool</title>
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="s.css">
+</head>
+
+<body>
+    <center>
+        <h1 id="a">AntiBanJapanTool</h1>
+    </center>
+    <center><img src="banner.png" alt="banner" class="Home_banner__WnS5R"></center>
+    <center>
+        <p class="subtitle" id="timeid"></p>
+    </center>
+    <script>
+        setInterval(() => {
+            const time = document.getElementById("timeid")
+            const setTime = new Date("2023-08-31T22:10:00"); // 設定した時間を取得
+            const now = new Date(); // 現在の時間を取得
+            const diffMs = now - setTime; // 差分を計算（ミリ秒単位）
+            const diffSe = diffMs / 1000
+            const diffMin = diffMs / (1000 * 60); // 分単位の差分
+            const diffHr = diffMs / (1000 * 60 * 60); // 時間単位の差分
+            const diffDay = diffMs / (1000 * 60 * 60 * 24); // 日単位の差分
+
+            const diffDayInt = Math.floor(diffDay); // 小数点以下を切り捨てて整数に変換
+            const diffHrInt = Math.floor(diffHr % 24); // 24時間を超えた分を取得し、小数点以下を切り捨てて整数に変換
+            const diffMinInt = Math.floor(diffMin % 60); // 60分を超えた分を取得し、小数点以下を切り捨てて整数に変換
+            const diffSeInt = Math.floor(diffSe % 60)
+
+            time.innerText = ("更新から" + diffDayInt + "日" + diffHrInt + "時間" + diffMinInt + "分" + diffSeInt + "秒"); // 設定した時間から何時間立っているかを表示
+        }, 50);
+
+
+    </script>
+    <div class="grid"><a class='button' href="ConfigBackup.bat" download style="background-color: rgb(79,179,100)">Auto
+            configbackup</a>
+        <a class="button" href="https://github.com/iorin006/xbox-gen"
+            style='background-color: white; color: black;'>xbox-gen</a>
+        <a class="button" href="https://discord.gg/abj" style="background-color: rgb(114, 137, 218)"> Discord</a>
+        <a class="button" onclick="function1()" style="background-color: orange;color:white;">hive configs</a>
+        <a class="button" href="https://github.com/iorin006/MC-BOOSTER" style="background-color:#e89bcb;;color:white;">mc-booster</a>
+        <script>
+            function function1() {
+                window.open("info.html")
+            }
+        </script>
+    </div>
+</body>
+
+</html>
