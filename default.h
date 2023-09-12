@@ -100,18 +100,18 @@
     },
     "AutoClicker": {
         "CPS": 1,
-        "Click Type": 0,
-        "Hold": false,
-        "MaxRand": 20,
-        "MinRand": 15,
-        "Only weapons": true,
-        "RandomDelay": true,
+        "Click Type": 1,
+        "Hold": true,
+        "MaxRand": 1,
+        "MinRand": 1,
+        "Only weapons": false,
+        "RandomDelay": false,
         "Swing Sound": false,
         "enabled": false,
         "keybind": 0,
         "visible": true,
-        "xJitter": 2.0,
-        "yJitter": 2.0
+        "xJitter": 0.0,
+        "yJitter": 0.0
     },
     "AutoDisconnect": {
         "Current Health": 10,
@@ -132,7 +132,7 @@
     },
     "AutoMove": {
         "Jump": false,
-        "Sprint": false,
+        "Sprint": true,
         "enabled": false,
         "keybind": 0,
         "visible": true
@@ -160,15 +160,15 @@
         "visible": true
     },
     "Bhop": {
-        "Speed": 0.32499998807907104,
+        "Speed": 0.2414282262325287,
         "enabled": false,
-        "keybind": 0,
+        "keybind": 70,
         "visible": true
     },
     "Blink": {
         "enabled": false,
         "keybind": 0,
-        "visible": true
+        "visible": false
     },
     "BlockOutline": {
         "Color": {
@@ -269,7 +269,7 @@
         "Combat": {
             "isExtended": true,
             "pos": {
-                "x": 31.333335876464844,
+                "x": 14.0,
                 "y": 3.3333334922790527
             }
         },
@@ -372,7 +372,7 @@
             "PickerY": 0.0,
             "Red": 255.0
         },
-        "Rainbow": false,
+        "Rainbow": true,
         "enabled": false,
         "keybind": 0,
         "visible": true
@@ -499,8 +499,8 @@
         "visible": true
     },
     "Fly": {
-        "Mode": 0,
-        "Speed": 3.0,
+        "Mode": 1,
+        "Speed": 0.3100000023841858,
         "enabled": false,
         "keybind": 0,
         "visible": true
@@ -516,7 +516,7 @@
         "Spectate player": false,
         "Speed": 0.32499998807907104,
         "enabled": false,
-        "keybind": 86,
+        "keybind": 0,
         "visible": true
     },
     "Freelook": {
@@ -608,12 +608,12 @@
         "visible": true
     },
     "InvCleaner": {
-        "Armor": false,
-        "AutoSort": false,
-        "Blocks": false,
-        "Food": false,
-        "OpenInv": false,
-        "Tools": false,
+        "Armor": true,
+        "AutoSort": true,
+        "Blocks": true,
+        "Food": true,
+        "OpenInv": true,
+        "Tools": true,
         "enabled": false,
         "keybind": 0,
         "visible": true
@@ -621,7 +621,7 @@
     "InventoryMove": {
         "enabled": false,
         "keybind": 0,
-        "visible": true
+        "visible": false
     },
     "InventoryViewer": {
         "Position": {
@@ -742,8 +742,8 @@
     },
     "NoPacket": {
         "enabled": false,
-        "keybind": 103,
-        "visible": true
+        "keybind": 0,
+        "visible": false
     },
     "NoPaintingCrash": {
         "enabled": false,
@@ -878,8 +878,8 @@
         "visible": true
     },
     "Swing": {
-        "Swings": 1,
-        "enabled": false,
+        "Swings": 0,
+        "enabled": true,
         "keybind": 0,
         "visible": true
     },
@@ -974,7 +974,7 @@
         "visible": true
     },
     "VHop": {
-        "Speed": 1.7400000095367432,
+        "Speed": 3.0,
         "Weird Friction": false,
         "enabled": false,
         "keybind": 0,
