@@ -160,7 +160,7 @@
         "visible": true
     },
     "Bhop": {
-        "Speed": 0.2414282262325287,
+        "Speed": 0.30100035667419434,
         "enabled": false,
         "keybind": 70,
         "visible": true
@@ -516,7 +516,7 @@
         "Spectate player": false,
         "Speed": 0.32499998807907104,
         "enabled": false,
-        "keybind": 0,
+        "keybind": 86,
         "visible": true
     },
     "Freelook": {
