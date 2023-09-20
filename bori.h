@@ -90,7 +90,7 @@
         "visible": true
     },
     "AutoGapple": {
-        "Health": 0,
+        "Health": 1,
         "Mode": 2,
         "enabled": false,
         "keybind": 0,
@@ -129,13 +129,13 @@
     "Automatic": {
         "AutoDodge": false,
         "AutoGG": false,
-        "AutoRQ": false,
+        "AutoRQ": true,
         "DodgeDelay": 5,
         "Game": 0,
         "TeamSize": 0,
-        "enabled": false,
+        "enabled": true,
         "keybind": 0,
-        "visible": true
+        "visible": false
     },
     "Bhop": {
         "Hive": false,
@@ -196,7 +196,7 @@
         "visible": true
     },
     "ChestStealer": {
-        "Closing Delay": 3,
+        "Closing Delay": 4,
         "enabled": true,
         "keybind": 0,
         "visible": true
@@ -213,8 +213,8 @@
         "Client": {
             "isExtended": true,
             "pos": {
-                "x": 548.5714111328125,
-                "y": 4.0
+                "x": 441.9999694824219,
+                "y": 7.666666030883789
             }
         },
         "Combat": {
@@ -225,10 +225,10 @@
             }
         },
         "Misc": {
-            "isExtended": true,
+            "isExtended": false,
             "pos": {
-                "x": 457.14288330078125,
-                "y": 4.0
+                "x": 431.1429748535156,
+                "y": 215.0
             }
         },
         "Movement": {
@@ -348,7 +348,7 @@
         "visible": true
     },
     "FastEat": {
-        "Speed": 0,
+        "Speed": 1,
         "enabled": false,
         "keybind": 0,
         "visible": true
@@ -440,9 +440,9 @@
     },
     "InvCleaner": {
         "Axe": 3,
-        "Blocks": 9,
+        "Blocks": 4,
         "Clean": true,
-        "Delay": 0,
+        "Delay": 2,
         "Mode": 0,
         "Pickaxe": 2,
         "Sort": true,
@@ -493,8 +493,8 @@
         "Opacity": 0.20000000298023224,
         "Platform": true,
         "Underline": true,
-        "enabled": true,
-        "keybind": 0,
+        "enabled": false,
+        "keybind": 9,
         "visible": true
     },
     "Nbt": {
@@ -577,7 +577,7 @@
     },
     "OffhandAllow": {
         "Mode": 0,
-        "Slot to move": 0,
+        "Slot to move": 1,
         "enabled": false,
         "keybind": 0,
         "visible": true
@@ -630,7 +630,7 @@
     "Scaffold": {
         "AutoSelect": true,
         "Down": false,
-        "Extend": 2,
+        "Extend": 1,
         "Highlight": false,
         "Hive": false,
         "Replenish": false,
@@ -694,14 +694,14 @@
     },
     "Switcher": {
         "First Slot": 4,
-        "Second Slot": 0,
+        "Second Slot": 1,
         "enabled": false,
         "keybind": 0,
         "visible": true
     },
     "Tablist": {
         "enabled": false,
-        "keybind": 9,
+        "keybind": 0,
         "visible": true
     },
     "Teams": {
@@ -802,5 +802,6 @@
         "visible": true
     },
     "friends": [],
+    "from": "Borion",
     "prefix": "."
 }
