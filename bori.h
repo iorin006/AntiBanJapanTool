@@ -225,10 +225,10 @@
             }
         },
         "Misc": {
-            "isExtended": false,
+            "isExtended": true,
             "pos": {
-                "x": 431.1429748535156,
-                "y": 215.0
+                "x": 522.8095703125,
+                "y": 8.0
             }
         },
         "Movement": {
@@ -276,11 +276,13 @@
     },
     "Crasher": {
         "Mode": 0,
+        "Version": 0,
         "enabled": false,
         "keybind": 0,
         "visible": true
     },
     "Criticals": {
+        "Up Distance": 2.0,
         "enabled": false,
         "keybind": 0,
         "visible": true
@@ -364,6 +366,8 @@
         "visible": true
     },
     "Fly": {
+        "Creative Fly Speed": 1.0,
+        "Hold": false,
         "Horizontal Speed": 1.5000001192092896,
         "Mode": 0,
         "Vertical Speed": 0.5,
@@ -433,6 +437,12 @@
         "keybind": 0,
         "visible": true
     },
+    "IRC": {
+        "Show join/leave messages": true,
+        "enabled": true,
+        "keybind": 0,
+        "visible": true
+    },
     "InstaBreak": {
         "enabled": false,
         "keybind": 0,
@@ -466,12 +476,13 @@
     "Killaura": {
         "AutoWeapon": true,
         "Delay": 3,
+        "Display Target": true,
         "Hit Range": 4.260504245758057,
         "Hurttime": false,
         "Lock-on Range": 6.0,
         "MobAura": false,
         "Mode": 0,
-        "Rotations": 2,
+        "Rotations": 1,
         "Smooth": false,
         "Smoothing": 0.25,
         "enabled": false,
@@ -692,9 +703,31 @@
         "keybind": 0,
         "visible": true
     },
+    "Swing": {
+        "Mode": 0,
+        "Speed": 8,
+        "Swing Speed": true,
+        "Sword Animations": true,
+        "enabled": true,
+        "keybind": 0,
+        "visible": true
+    },
     "Switcher": {
         "First Slot": 4,
         "Second Slot": 1,
+        "enabled": false,
+        "keybind": 0,
+        "visible": true
+    },
+    "TPAura": {
+        "Attack delay": 10,
+        "Delay": 10,
+        "Mobs": false,
+        "Mode": 0,
+        "Rotations": 1,
+        "Target distance": 5.0,
+        "Teleport distance": 1.0,
+        "Teleport speed": 1,
         "enabled": false,
         "keybind": 0,
         "visible": true
@@ -707,7 +740,7 @@
     "Teams": {
         "Is Allied": false,
         "Same Color": true,
-        "enabled": false,
+        "enabled": true,
         "keybind": 0,
         "visible": true
     },
@@ -738,6 +771,11 @@
     },
     "Tracer": {
         "3D Tracers": false,
+        "enabled": false,
+        "keybind": 0,
+        "visible": true
+    },
+    "Trajectories": {
         "enabled": false,
         "keybind": 0,
         "visible": true
