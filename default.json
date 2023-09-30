@@ -1,0 +1,458 @@
+{
+    "Animation": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Block A": true,
+            "Block B": true,
+            "Block C": true,
+            "Fake Block": true,
+            "Motion": 60.0,
+            "Speed": 6
+        }
+    },
+    "AntiVoid": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Fall Distance": 3
+        }
+    },
+    "ArrayList": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Animation": 0,
+            "Animation Speed": 1.0,
+            "Custom Location": 30,
+            "GlowMode": 0,
+            "Height": 40.0,
+            "LineMode": 0,
+            "Lowercase": false,
+            "Opacity": 40.0,
+            "Speed": 15
+        }
+    },
+    "AutoHive": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": null
+    },
+    "AutoSnowball": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Delay": 300
+        }
+    },
+    "AutoSpellBook": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "threshold": 7.0
+        }
+    },
+    "AutoVClip": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "BoatFlight": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Speed": 1.5,
+            "Y Speed": 1.5
+        }
+    },
+    "Bps": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "Camera": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "CameraClip": true,
+            "FullBright": true,
+            "NoOverlay": true
+        }
+    },
+    "ChestStealer": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Delay": 100
+        }
+    },
+    "ClickFriend": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "ClickGui": {
+        "bind": 45,
+        "hidden": false,
+        "settings": null
+    },
+    "Coords": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "CustomFov": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Fov": 80.0
+        }
+    },
+    "Desync": {
+        "bind": -1,
+        "hidden": false,
+        "settings": {
+            "Max Packets": 206,
+            "Movement Only": true
+        }
+    },
+    "DeviceSpoofer": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "DeviceModel": 1,
+            "ModelType": 0
+        }
+    },
+    "Disabler": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "ClumsyDelay": 20,
+            "Mode": 0
+        }
+    },
+    "ESP": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "FastStop": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": null
+    },
+    "Flight": {
+        "bind": -1,
+        "hidden": false,
+        "settings": {
+            "Boost Value": 1.5,
+            "Delay": 4,
+            "Desync": false,
+            "DesyncDelay": 4,
+            "Mode": 0,
+            "Sneak Boost": false,
+            "Speed": 0.7799999713897705,
+            "StopSpeed": false,
+            "TempTimer": 13.0,
+            "Timer": 13.199999809265137,
+            "Value": -0.10000000149011612
+        }
+    },
+    "Freecam": {
+        "bind": -1,
+        "hidden": false,
+        "settings": {
+            "Speed": 1.5
+        }
+    },
+    "HudEditor": {
+        "bind": 36,
+        "hidden": false,
+        "settings": null
+    },
+    "InventoryManager": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Auto Armor": true,
+            "Clean": true,
+            "Drop Axe": true,
+            "Drop Book": true,
+            "Life Spell": true,
+            "Manage": true,
+            "Snowball": true
+        }
+    },
+    "JumpCircle": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Fade": 2.0,
+            "Scale": 1.5,
+            "Speed": 1.0,
+            "Test": 30.0
+        }
+    },
+    "KillAura": {
+        "bind": 82,
+        "hidden": false,
+        "settings": {
+            "CPS": 7.97468376159668,
+            "Mode": 0,
+            "Range": 4.5,
+            "Raytrace": true,
+            "Render": true,
+            "Render Mode": 1,
+            "Rot Priority": 1,
+            "Swap": 1,
+            "Thickness": 7.0
+        }
+    },
+    "NameTags": {
+        "bind": 9,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Foreground": false
+        }
+    },
+    "NexusBreaker": {
+        "bind": -1,
+        "hidden": false,
+        "settings": {
+            "Delay": 500,
+            "Range": 4.0,
+            "Rot Priority": 1
+        }
+    },
+    "NoClip": {
+        "bind": -1,
+        "hidden": false,
+        "settings": {
+            "Desync": false,
+            "Speed": 0.699999988079071
+        }
+    },
+    "NoFall": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "hight": 0.10000000149011612
+        }
+    },
+    "Nuker": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "AboveCheck": true,
+            "Range": 4
+        }
+    },
+    "PacketLogger": {
+        "bind": -1,
+        "hidden": false,
+        "settings": {
+            "Auth Input": true,
+            "InBound": true,
+            "Move Actor": true,
+            "OutBound": true,
+            "Set Title": true
+        }
+    },
+    "Phase": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Desync": false
+        }
+    },
+    "Regen": {
+        "bind": 86,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Amount": 1.4500000476837158,
+            "Boost": true,
+            "Continue Delay": 100,
+            "Delay": 515,
+            "InstaRot": true,
+            "Range": 6.0,
+            "Render": true,
+            "Rot Priority": 1,
+            "Toggle": true
+        }
+    },
+    "Scaffold": {
+        "bind": 67,
+        "hidden": false,
+        "settings": {
+            "Extend": 2,
+            "Limit": 1,
+            "LockY": true,
+            "Rot Priority": 0,
+            "Swap": 0,
+            "Timer": 20.54852294921875,
+            "Tower": 0,
+            "UnderPlace": true
+        }
+    },
+    "Sneak": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "Speed": {
+        "bind": 70,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Desync": 16,
+            "DesyncTimer": 18.438819885253906,
+            "Duration": 0.9514768123626709,
+            "Mode": 3,
+            "Speed": 0.44493675231933594,
+            "Timer": 21.814346313476563
+        }
+    },
+    "SpeedMine": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "Spider": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Speed": 0.30000001192092896
+        }
+    },
+    "Spinner": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Speed": 30
+        }
+    },
+    "Sprint": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Strict": true
+        }
+    },
+    "Stackable": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "TPAura": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Back": true,
+            "CPS": 2.0,
+            "Random": true,
+            "Range": 15.0,
+            "Render": true,
+            "Rot Priority": 2,
+            "Step": 4.0
+        }
+    },
+    "TestModule": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "Theme": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Font": 0,
+            "Interpolation Speed": 13,
+            "Shadow Amount": 30.0,
+            "Theme": 2
+        }
+    },
+    "TimeChanger": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Time": 0
+        }
+    },
+    "Timer": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Timer": 24.19831085205078
+        }
+    },
+    "Velocity": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Horizontal": 0.0,
+            "No Push": true,
+            "Vertical": 0.0
+        }
+    },
+    "WarmupTimer": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "Watermark": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Bar": true,
+            "FirstLetter": true
+        }
+    },
+    "Zoom": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Fov": 20.0
+        }
+    }
+}
