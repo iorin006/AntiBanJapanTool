@@ -150,8 +150,8 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "ClumsyDelay": 10,
-            "Mode": 0
+            "ClumsyDelay": 1,
+            "Mode": 1
         }
     },
     "ESP": {
@@ -343,9 +343,9 @@
         "settings": {
             "Desync": 18,
             "DesyncTimer": 37.84809875488281,
-            "Duration": 0.9502109885215759,
+            "Duration": 0.9400843977928162,
             "Mode": 3,
-            "Speed": 0.45316457748413086,
+            "Speed": 0.4778481423854828,
             "Timer": 21.814346313476563
         }
     },
