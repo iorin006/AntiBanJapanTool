@@ -2,7 +2,7 @@
     "Animation": {
         "bind": -1,
         "enabled": true,
-        "hidden": false,
+        "hidden": true,
         "settings": {
             "Block A": true,
             "Block B": true,
@@ -23,7 +23,7 @@
     "ArrayList": {
         "bind": -1,
         "enabled": true,
-        "hidden": false,
+        "hidden": true,
         "settings": {
             "Animation": 0,
             "Animation Speed": 1.0,
@@ -82,7 +82,7 @@
     "Camera": {
         "bind": -1,
         "enabled": true,
-        "hidden": false,
+        "hidden": true,
         "settings": {
             "CameraClip": true,
             "FullBright": true,
@@ -111,7 +111,7 @@
     },
     "ClickGui": {
         "bind": 45,
-        "hidden": false,
+        "hidden": true,
         "settings": null
     },
     "Coords": {
@@ -325,7 +325,7 @@
             "LockY": true,
             "Rot Priority": 0,
             "Swap": 0,
-            "Timer": 19.282699584960938,
+            "Timer": 21.814346313476563,
             "Tower": 0,
             "UnderPlace": true
         }
@@ -338,11 +338,11 @@
     },
     "Speed": {
         "bind": 70,
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": {
             "Desync": 18,
-            "DesyncTimer": 39.32489776611328,
+            "DesyncTimer": 37.84809875488281,
             "Duration": 0.9502109885215759,
             "Mode": 3,
             "Speed": 0.45316457748413086,
@@ -408,7 +408,7 @@
     "Theme": {
         "bind": -1,
         "enabled": true,
-        "hidden": false,
+        "hidden": true,
         "settings": {
             "Font": 0,
             "Interpolation Speed": 13,
