@@ -89,6 +89,12 @@
             "NoOverlay": true
         }
     },
+    "ChatSuffix": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
     "ChestStealer": {
         "bind": -1,
         "enabled": true,
@@ -168,12 +174,12 @@
             "Delay": 4,
             "Desync": false,
             "DesyncDelay": 4,
-            "Mode": 0,
+            "Mode": 1,
             "Sneak Boost": false,
             "Speed": 0.7799999713897705,
             "StopSpeed": false,
             "TempTimer": 13.0,
-            "Timer": 13.199999809265137,
+            "Timer": 23.8734188079834,
             "Value": -0.10000000149011612
         }
     },
@@ -196,6 +202,7 @@
         "settings": {
             "Auto Armor": true,
             "Clean": true,
+            "Delay": 0,
             "Drop Axe": true,
             "Drop Book": true,
             "Life Spell": true,
@@ -219,12 +226,14 @@
         "hidden": false,
         "settings": {
             "CPS": 7.97468376159668,
+            "Desync Delay": 300,
             "Mode": 0,
             "Range": 4.5,
             "Raytrace": true,
             "Render": true,
             "Render Mode": 1,
-            "Rot Priority": 1,
+            "Rot Priority": 0,
+            "Rotation": 1,
             "Swap": 1,
             "Thickness": 7.0
         }
@@ -297,12 +306,13 @@
         "settings": {
             "Amount": 1.4500000476837158,
             "Boost": true,
+            "Container": true,
             "Continue Delay": 100,
             "Delay": 515,
             "InstaRot": true,
             "Range": 6.0,
             "Render": true,
-            "Rot Priority": 1,
+            "Rot Priority": 0,
             "Toggle": true
         }
     },
@@ -310,12 +320,12 @@
         "bind": 67,
         "hidden": false,
         "settings": {
-            "Extend": 2,
-            "Limit": 1,
+            "Extend": 3,
+            "Limit": 3,
             "LockY": true,
             "Rot Priority": 0,
             "Swap": 0,
-            "Timer": 20.54852294921875,
+            "Timer": 19.282699584960938,
             "Tower": 0,
             "UnderPlace": true
         }
@@ -332,10 +342,10 @@
         "hidden": false,
         "settings": {
             "Desync": 16,
-            "DesyncTimer": 18.438819885253906,
-            "Duration": 0.9514768123626709,
+            "DesyncTimer": 30.253164291381836,
+            "Duration": 0.9544304013252258,
             "Mode": 3,
-            "Speed": 0.44493675231933594,
+            "Speed": 0.45316457748413086,
             "Timer": 21.814346313476563
         }
     },
@@ -421,6 +431,12 @@
         "settings": {
             "Timer": 24.19831085205078
         }
+    },
+    "ToggleSound": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": null
     },
     "Velocity": {
         "bind": -1,
