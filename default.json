@@ -91,7 +91,7 @@
     },
     "ChatSuffix": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": null
     },
@@ -125,7 +125,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Fov": 80.0
+            "Fov": 100.5063247680664
         }
     },
     "Desync": {
@@ -150,7 +150,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "ClumsyDelay": 19,
+            "ClumsyDelay": 10,
             "Mode": 0
         }
     },
@@ -440,7 +440,7 @@
     },
     "Velocity": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "Horizontal": 0.0,
