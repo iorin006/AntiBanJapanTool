@@ -338,12 +338,12 @@
     },
     "Speed": {
         "bind": 70,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "Desync": 18,
             "DesyncTimer": 39.32489776611328,
-            "Duration": 0.9654008150100708,
+            "Duration": 0.9502109885215759,
             "Mode": 3,
             "Speed": 0.45316457748413086,
             "Timer": 21.814346313476563
