@@ -147,10 +147,10 @@
     },
     "Disabler": {
         "bind": -1,
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": {
-            "ClumsyDelay": 20,
+            "ClumsyDelay": 19,
             "Mode": 0
         }
     },
@@ -440,7 +440,7 @@
     },
     "Velocity": {
         "bind": -1,
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": {
             "Horizontal": 0.0,
