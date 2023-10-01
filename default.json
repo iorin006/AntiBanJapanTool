@@ -341,9 +341,9 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Desync": 16,
-            "DesyncTimer": 30.253164291381836,
-            "Duration": 0.9544304013252258,
+            "Desync": 18,
+            "DesyncTimer": 39.32489776611328,
+            "Duration": 0.9654008150100708,
             "Mode": 3,
             "Speed": 0.45316457748413086,
             "Timer": 21.814346313476563
