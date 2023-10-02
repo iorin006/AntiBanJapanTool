@@ -1,15 +1,15 @@
 {
     "Animation": {
         "bind": -1,
-        "enabled": true,
-        "hidden": true,
+        "enabled": false,
+        "hidden": false,
         "settings": {
             "Block A": true,
             "Block B": true,
-            "Block C": true,
-            "Fake Block": true,
-            "Motion": 60.0,
-            "Speed": 6
+            "Block C": false,
+            "Fake Block": false,
+            "Motion": 70.0,
+            "Speed": 3
         }
     },
     "AntiVoid": {
@@ -44,10 +44,10 @@
     },
     "AutoSnowball": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
-            "Delay": 300
+            "Delay": 100
         }
     },
     "AutoSpellBook": {
@@ -132,8 +132,8 @@
         "bind": -1,
         "hidden": false,
         "settings": {
-            "Max Packets": 206,
-            "Movement Only": true
+            "Max Packets": 2,
+            "Movement Only": false
         }
     },
     "DeviceSpoofer": {
@@ -147,7 +147,7 @@
     },
     "Disabler": {
         "bind": -1,
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": {
             "ClumsyDelay": 1,
@@ -225,14 +225,14 @@
         "bind": 82,
         "hidden": false,
         "settings": {
-            "CPS": 7.97468376159668,
+            "CPS": 9.016877174377441,
             "Desync Delay": 300,
-            "Mode": 0,
+            "Mode": 2,
             "Range": 4.5,
             "Raytrace": true,
             "Render": true,
             "Render Mode": 1,
-            "Rot Priority": 1,
+            "Rot Priority": 0,
             "Rotation": 1,
             "Swap": 1,
             "Thickness": 7.0
@@ -252,7 +252,7 @@
         "settings": {
             "Delay": 500,
             "Range": 4.0,
-            "Rot Priority": 1
+            "Rot Priority": 0
         }
     },
     "NoClip": {
@@ -338,11 +338,11 @@
     },
     "Speed": {
         "bind": 70,
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": {
             "Desync": 18,
-            "DesyncTimer": 36.582279205322266,
+            "DesyncTimer": 36.16033935546875,
             "Duration": 0.945147693157196,
             "Mode": 3,
             "Speed": 0.39556965231895447,
@@ -401,7 +401,7 @@
     },
     "TestModule": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": null
     },
