@@ -147,11 +147,11 @@
     },
     "Disabler": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "ClumsyDelay": 1,
-            "Mode": 1
+            "Mode": 0
         }
     },
     "ESP": {
@@ -232,7 +232,7 @@
             "Raytrace": true,
             "Render": true,
             "Render Mode": 1,
-            "Rot Priority": 0,
+            "Rot Priority": 1,
             "Rotation": 1,
             "Swap": 1,
             "Thickness": 7.0
@@ -325,7 +325,7 @@
             "LockY": true,
             "Rot Priority": 0,
             "Swap": 0,
-            "Timer": 21.814346313476563,
+            "Timer": 24.556961059570313,
             "Tower": 0,
             "UnderPlace": true
         }
@@ -338,15 +338,15 @@
     },
     "Speed": {
         "bind": 70,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "Desync": 18,
-            "DesyncTimer": 37.84809875488281,
-            "Duration": 0.9400843977928162,
+            "DesyncTimer": 36.582279205322266,
+            "Duration": 0.945147693157196,
             "Mode": 3,
-            "Speed": 0.4778481423854828,
-            "Timer": 21.814346313476563
+            "Speed": 0.39556965231895447,
+            "Timer": 26.033754348754883
         }
     },
     "SpeedMine": {
