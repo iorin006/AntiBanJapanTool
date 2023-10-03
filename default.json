@@ -1,15 +1,15 @@
 {
     "Animation": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "Block A": true,
             "Block B": true,
-            "Block C": false,
-            "Fake Block": false,
-            "Motion": 70.0,
-            "Speed": 3
+            "Block C": true,
+            "Fake Block": true,
+            "Motion": 0.0,
+            "Speed": 20
         }
     },
     "AntiVoid": {
@@ -277,7 +277,7 @@
         "hidden": false,
         "settings": {
             "AboveCheck": true,
-            "Range": 4
+            "Range": 1
         }
     },
     "PacketLogger": {
