@@ -32,7 +32,7 @@
             "Height": 40.0,
             "LineMode": 0,
             "Lowercase": false,
-            "Opacity": 40.0,
+            "Opacity": 40.25316619873047,
             "Speed": 15
         }
     },
@@ -226,16 +226,16 @@
         "hidden": false,
         "settings": {
             "CPS": 7.97468376159668,
-            "Desync Delay": 300,
+            "Desync Delay": 0,
             "Mode": 2,
             "Range": 4.5,
             "Raytrace": true,
             "Render": true,
             "Render Mode": 1,
-            "Rot Priority": 0,
+            "Rot Priority": 1,
             "Rotation": 1,
             "Swap": 1,
-            "Thickness": 7.0
+            "Thickness": 25.0
         }
     },
     "NameTags": {
@@ -307,7 +307,7 @@
             "Amount": 1.4500000476837158,
             "Boost": true,
             "Container": true,
-            "Continue Delay": 100,
+            "Continue Delay": 0,
             "Delay": 515,
             "InstaRot": true,
             "Range": 6.0,
@@ -323,7 +323,7 @@
             "Extend": 3,
             "Limit": 3,
             "LockY": true,
-            "Rot Priority": 0,
+            "Rot Priority": 1,
             "Swap": 0,
             "Timer": 24.556961059570313,
             "Tower": 0,
@@ -368,7 +368,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Speed": 30
+            "Speed": 10
         }
     },
     "Sprint": {
@@ -395,7 +395,7 @@
             "Random": true,
             "Range": 15.0,
             "Render": true,
-            "Rot Priority": 2,
+            "Rot Priority": 0,
             "Step": 4.0
         }
     },
@@ -411,8 +411,8 @@
         "hidden": true,
         "settings": {
             "Font": 0,
-            "Interpolation Speed": 13,
-            "Shadow Amount": 30.0,
+            "Interpolation Speed": 11,
+            "Shadow Amount": 37.130802154541016,
             "Theme": 2
         }
     },
