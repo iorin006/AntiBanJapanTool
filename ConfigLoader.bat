@@ -11,7 +11,7 @@ echo ファイルをドラッグアンドドロップしてエンターを押し
 
 SET /P INPUTSTR=""
 
-copy %INPUTSTR% C:\Users\user\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Vector\configuration
+copy %INPUTSTR% C:\Users\user\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\Vector\configs
 
 echo 完了しました
 pause
