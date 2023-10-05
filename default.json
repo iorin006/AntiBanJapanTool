@@ -87,7 +87,7 @@
     },
     "Bps": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "Timing": 0
@@ -438,7 +438,7 @@
     },
     "TestModule": {
         "bind": -1,
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": null
     },
