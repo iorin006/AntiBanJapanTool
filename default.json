@@ -12,6 +12,18 @@
             "Speed": 20
         }
     },
+    "AnniSound": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
+    "AntiImmobile": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
+    },
     "AntiVoid": {
         "bind": -1,
         "enabled": false,
@@ -28,9 +40,9 @@
             "Animation": 0,
             "Animation Speed": 1.0,
             "Custom Location": 30,
-            "GlowMode": 0,
+            "Glow Mode": 0,
             "Height": 40.0,
-            "LineMode": 0,
+            "Line Mode": 0,
             "Lowercase": false,
             "Opacity": 40.25316619873047,
             "Speed": 15
@@ -47,7 +59,7 @@
         "enabled": true,
         "hidden": false,
         "settings": {
-            "Delay": 100
+            "Throw delay": 300
         }
     },
     "AutoSpellBook": {
@@ -70,14 +82,16 @@
         "hidden": false,
         "settings": {
             "Speed": 1.5,
-            "Y Speed": 1.5
+            "Vertical Speed": 1.5
         }
     },
     "Bps": {
         "bind": -1,
         "enabled": false,
         "hidden": false,
-        "settings": null
+        "settings": {
+            "Timing": 0
+        }
     },
     "Camera": {
         "bind": -1,
@@ -88,6 +102,12 @@
             "FullBright": true,
             "NoOverlay": true
         }
+    },
+    "ChatCleaner": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": null
     },
     "ChatSuffix": {
         "bind": -1,
@@ -132,7 +152,7 @@
         "bind": -1,
         "hidden": false,
         "settings": {
-            "Max Packets": 2,
+            "Max Packet": 100,
             "Movement Only": false
         }
     },
@@ -150,7 +170,9 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "ClumsyDelay": 1,
+            "Clumsy delay": 20,
+            "Ground": false,
+            "Input": true,
             "Mode": 0
         }
     },
@@ -158,7 +180,9 @@
         "bind": -1,
         "enabled": false,
         "hidden": false,
-        "settings": null
+        "settings": {
+            "Teams": false
+        }
     },
     "FastStop": {
         "bind": -1,
@@ -170,15 +194,15 @@
         "bind": -1,
         "hidden": false,
         "settings": {
-            "Boost Value": 1.5,
+            "Boost value": 1.5,
             "Delay": 4,
             "Desync": false,
-            "DesyncDelay": 4,
+            "Desync delay": 4,
             "Mode": 1,
             "Sneak Boost": false,
             "Speed": 0.7799999713897705,
-            "StopSpeed": false,
-            "TempTimer": 13.0,
+            "Stop speed": false,
+            "Temp timer": 13.0,
             "Timer": 23.8734188079834,
             "Value": -0.10000000149011612
         }
@@ -225,16 +249,18 @@
         "bind": 82,
         "hidden": false,
         "settings": {
-            "CPS": 7.97468376159668,
             "Desync Delay": 0,
+            "Max CPS": 11.0,
+            "Min CPS": 8.0,
             "Mode": 2,
+            "Priority": 2,
             "Range": 4.5,
-            "Raytrace": true,
+            "Raycast": true,
             "Render": true,
             "Render Mode": 1,
-            "Rot Priority": 1,
             "Rotation": 1,
             "Swap": 1,
+            "Teams": false,
             "Thickness": 25.0
         }
     },
@@ -243,7 +269,8 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Foreground": false
+            "Foreground": false,
+            "Teams": false
         }
     },
     "NexusBreaker": {
@@ -251,8 +278,9 @@
         "hidden": false,
         "settings": {
             "Delay": 500,
-            "Range": 4.0,
-            "Rot Priority": 0
+            "Mode": 0,
+            "Priority": 1,
+            "Range": 4.0
         }
     },
     "NoClip": {
@@ -268,15 +296,18 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "hight": 0.10000000149011612
+            "Distance": 3.0,
+            "Height": 0.10000000149011612,
+            "Mode": 0
         }
     },
     "Nuker": {
         "bind": -1,
-        "enabled": false,
         "hidden": false,
         "settings": {
-            "AboveCheck": true,
+            "Above check": true,
+            "Limit": 3,
+            "Mode": 0,
             "Range": 1
         }
     },
@@ -307,12 +338,12 @@
             "Amount": 1.4500000476837158,
             "Boost": true,
             "Container": true,
-            "Continue Delay": 0,
+            "Continue delay": 100,
             "Delay": 515,
-            "InstaRot": true,
+            "Instant": true,
+            "Priority": 1,
             "Range": 6.0,
             "Render": true,
-            "Rot Priority": 0,
             "Toggle": true
         }
     },
@@ -320,14 +351,17 @@
         "bind": 67,
         "hidden": false,
         "settings": {
+            "Delay": 3,
             "Extend": 3,
             "Limit": 3,
             "LockY": true,
-            "Rot Priority": 1,
+            "Mode": 0,
+            "Priority": 0,
+            "Rotation": 1,
             "Swap": 0,
             "Timer": 24.556961059570313,
             "Tower": 0,
-            "UnderPlace": true
+            "Under place": true
         }
     },
     "Sneak": {
@@ -341,10 +375,11 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Desync": 18,
-            "DesyncTimer": 36.16033935546875,
+            "Desync": true,
+            "Desync delay": 16,
+            "Desync timer": 30.0,
             "Duration": 0.945147693157196,
-            "Mode": 3,
+            "Mode": 4,
             "Speed": 0.39556965231895447,
             "Timer": 26.033754348754883
         }
@@ -368,7 +403,8 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Speed": 10
+            "Priority": 4,
+            "Speed": 30.0
         }
     },
     "Sprint": {
@@ -392,11 +428,12 @@
         "settings": {
             "Back": true,
             "CPS": 2.0,
-            "Random": true,
+            "Priority": 2,
+            "Randomize": true,
             "Range": 15.0,
             "Render": true,
-            "Rot Priority": 0,
-            "Step": 4.0
+            "Step": 4.0,
+            "Thickness": 6.0
         }
     },
     "TestModule": {
@@ -444,7 +481,6 @@
         "hidden": false,
         "settings": {
             "Horizontal": 0.0,
-            "No Push": true,
             "Vertical": 0.0
         }
     },
@@ -460,7 +496,7 @@
         "hidden": false,
         "settings": {
             "Bar": true,
-            "FirstLetter": true
+            "First letter": true
         }
     },
     "Zoom": {
