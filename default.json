@@ -249,11 +249,11 @@
         "bind": 82,
         "hidden": false,
         "settings": {
-            "Desync Delay": 0,
-            "Max CPS": 9.958268165588379,
+            "Desync Delay": 100,
+            "Max CPS": 10.958268165588379,
             "Min CPS": 8.0,
-            "Mode": 2,
-            "Priority": 2,
+            "Mode": 0,
+            "Priority": 1,
             "Range": 4.5,
             "Raycast": true,
             "Render": true,
@@ -332,7 +332,7 @@
     },
     "Regen": {
         "bind": 86,
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": {
             "Amount": 1.4500000476837158,
@@ -341,7 +341,7 @@
             "Continue delay": 0,
             "Delay": 495,
             "Instant": true,
-            "Priority": 1,
+            "Priority": 0,
             "Range": 6.0,
             "Render": true,
             "Toggle": true
@@ -377,7 +377,7 @@
         "settings": {
             "Desync": true,
             "Desync delay": 18,
-            "Desync timer": 36.11663818359375,
+            "Desync timer": 36.602142333984375,
             "Duration": 0.945147693157196,
             "Mode": 4,
             "Speed": 0.39556965231895447,
