@@ -249,7 +249,7 @@
         "bind": 82,
         "hidden": false,
         "settings": {
-            "Desync Delay": 100,
+            "Desync Delay": 200,
             "Max CPS": 10.958268165588379,
             "Min CPS": 8.0,
             "Mode": 0,
@@ -339,10 +339,10 @@
             "Boost": true,
             "Container": true,
             "Continue delay": 0,
-            "Delay": 495,
+            "Delay": 450,
             "Instant": true,
             "Priority": 0,
-            "Range": 6.0,
+            "Range": 7.0,
             "Render": true,
             "Toggle": true
         }
