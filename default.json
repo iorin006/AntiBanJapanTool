@@ -29,7 +29,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Distance": 3
+            "Fall Distance": 3
         }
     },
     "ArrayList": {
@@ -53,14 +53,6 @@
         "enabled": true,
         "hidden": false,
         "settings": null
-    },
-    "AutoL": {
-        "bind": -1,
-        "enabled": true,
-        "hidden": false,
-        "settings": {
-            "Mode": 0
-        }
     },
     "AutoSnowball": {
         "bind": -1,
@@ -99,14 +91,6 @@
         "hidden": false,
         "settings": {
             "Timing": 0
-        }
-    },
-    "Breaker": {
-        "bind": -1,
-        "enabled": false,
-        "hidden": false,
-        "settings": {
-            "Delay": 200
         }
     },
     "Camera": {
@@ -169,8 +153,6 @@
         "hidden": false,
         "settings": {
             "Max Packet": 100,
-            "Max Ticks": 2,
-            "Mode": 0,
             "Movement Only": false
         }
     },
@@ -243,15 +225,12 @@
         "hidden": false,
         "settings": {
             "Auto Armor": true,
-            "Block": true,
             "Clean": true,
-            "Clean Block": true,
             "Delay": 0,
             "Drop Axe": true,
             "Drop Book": true,
             "Life Spell": true,
             "Manage": true,
-            "Mode": 0,
             "Snowball": true
         }
     },
@@ -271,7 +250,7 @@
         "hidden": false,
         "settings": {
             "Desync Delay": 300,
-            "Max CPS": 10.958268165588379,
+            "Max CPS": 9.958268165588379,
             "Min CPS": 8.0,
             "Mode": 0,
             "Priority": 1,
@@ -283,17 +262,6 @@
             "Swap": 1,
             "Teams": true,
             "Thickness": 25.0
-        }
-    },
-    "LongJump": {
-        "bind": 71,
-        "enabled": false,
-        "hidden": false,
-        "settings": {
-            "Boost": 1.0,
-            "Mode": 1,
-            "Motion": 2.0,
-            "Strafe": true
         }
     },
     "NameTags": {
@@ -385,7 +353,7 @@
         "settings": {
             "Delay": 3,
             "Extend": 3,
-            "Limit": 1,
+            "Limit": 2,
             "LockY": true,
             "Mode": 1,
             "Priority": 0,
@@ -407,18 +375,13 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost Amount": 0.20000000298023224,
-            "Boost Duration": 0.20000000298023224,
-            "Damage Boost": false,
             "Desync": true,
-            "Desync delay": 16,
-            "Desync timer": 30.43592643737793,
+            "Desync delay": 18,
+            "Desync timer": 36.21663818359375,
             "Duration": 0.9454465508460999,
-            "Force sprint": true,
-            "Mode": 2,
-            "More boost": false,
+            "Mode": 4,
             "Speed": 0.4000000059604645,
-            "Timer": 26.08916664123535
+            "Timer": 26.00916664123535
         }
     },
     "SpeedMine": {
@@ -471,14 +434,6 @@
             "Render": true,
             "Step": 4.0,
             "Thickness": 6.0
-        }
-    },
-    "TargetStrafe": {
-        "bind": -1,
-        "enabled": false,
-        "hidden": false,
-        "settings": {
-            "Distance": 1.5
         }
     },
     "TestModule": {
@@ -541,8 +496,7 @@
         "hidden": false,
         "settings": {
             "Bar": true,
-            "First letter": true,
-            "Mode": 0
+            "First letter": true
         }
     },
     "Zoom": {
