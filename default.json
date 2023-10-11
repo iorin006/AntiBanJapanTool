@@ -9,7 +9,7 @@
             "Block C": true,
             "Fake Block": true,
             "Motion": 0.0,
-            "Speed": 10
+            "Speed": 6
         }
     },
     "AnniSound": {
@@ -29,7 +29,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Fall Distance": 3
+            "Distance": 3
         }
     },
     "ArrayList": {
@@ -53,6 +53,14 @@
         "enabled": true,
         "hidden": false,
         "settings": null
+    },
+    "AutoL": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Mode": 0
+        }
     },
     "AutoSnowball": {
         "bind": -1,
@@ -91,6 +99,14 @@
         "hidden": false,
         "settings": {
             "Timing": 0
+        }
+    },
+    "Breaker": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Delay": 200
         }
     },
     "Camera": {
@@ -153,6 +169,8 @@
         "hidden": false,
         "settings": {
             "Max Packet": 100,
+            "Max Ticks": 2,
+            "Mode": 0,
             "Movement Only": false
         }
     },
@@ -225,12 +243,15 @@
         "hidden": false,
         "settings": {
             "Auto Armor": true,
+            "Block": true,
             "Clean": true,
+            "Clean Block": true,
             "Delay": 0,
             "Drop Axe": true,
             "Drop Book": true,
             "Life Spell": true,
             "Manage": true,
+            "Mode": 0,
             "Snowball": true
         }
     },
@@ -249,7 +270,7 @@
         "bind": 82,
         "hidden": false,
         "settings": {
-            "Desync Delay": 200,
+            "Desync Delay": 300,
             "Max CPS": 10.958268165588379,
             "Min CPS": 8.0,
             "Mode": 0,
@@ -262,6 +283,17 @@
             "Swap": 1,
             "Teams": true,
             "Thickness": 25.0
+        }
+    },
+    "LongJump": {
+        "bind": 71,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Boost": 1.0,
+            "Mode": 1,
+            "Motion": 2.0,
+            "Strafe": true
         }
     },
     "NameTags": {
@@ -308,7 +340,7 @@
             "Above check": true,
             "Limit": 3,
             "Mode": 0,
-            "Range": 1
+            "Range": 4
         }
     },
     "PacketLogger": {
@@ -338,8 +370,8 @@
             "Amount": 1.4500000476837158,
             "Boost": true,
             "Container": true,
-            "Continue delay": 0,
-            "Delay": 450,
+            "Continue delay": 100,
+            "Delay": 500,
             "Instant": true,
             "Priority": 0,
             "Range": 7.0,
@@ -351,7 +383,7 @@
         "bind": 67,
         "hidden": false,
         "settings": {
-            "Delay": 0,
+            "Delay": 3,
             "Extend": 3,
             "Limit": 1,
             "LockY": true,
@@ -375,13 +407,18 @@
         "enabled": false,
         "hidden": false,
         "settings": {
+            "Boost Amount": 0.20000000298023224,
+            "Boost Duration": 0.20000000298023224,
+            "Damage Boost": false,
             "Desync": true,
-            "Desync delay": 18,
-            "Desync timer": 36.602142333984375,
-            "Duration": 0.945147693157196,
-            "Mode": 4,
-            "Speed": 0.39556965231895447,
-            "Timer": 26.033754348754883
+            "Desync delay": 16,
+            "Desync timer": 30.43592643737793,
+            "Duration": 0.9454465508460999,
+            "Force sprint": true,
+            "Mode": 2,
+            "More boost": false,
+            "Speed": 0.4000000059604645,
+            "Timer": 26.08916664123535
         }
     },
     "SpeedMine": {
@@ -436,6 +473,14 @@
             "Thickness": 6.0
         }
     },
+    "TargetStrafe": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Distance": 1.5
+        }
+    },
     "TestModule": {
         "bind": -1,
         "enabled": false,
@@ -448,7 +493,7 @@
         "hidden": true,
         "settings": {
             "Font": 0,
-            "Interpolation Speed": 11,
+            "Interpolation Speed": 12,
             "Shadow Amount": 37.130802154541016,
             "Theme": 2
         }
@@ -466,7 +511,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Timer": 24.19831085205078
+            "Timer": 54.190818786621094
         }
     },
     "ToggleSound": {
@@ -496,7 +541,8 @@
         "hidden": false,
         "settings": {
             "Bar": true,
-            "First letter": true
+            "First letter": true,
+            "Mode": 0
         }
     },
     "Zoom": {
