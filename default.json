@@ -377,11 +377,11 @@
         "settings": {
             "Desync": true,
             "Desync delay": 18,
-            "Desync timer": 36.21663818359375,
-            "Duration": 0.9454465508460999,
+            "Desync timer": 36.216636657714844,
+            "Duration": 0.9450465440750122,
             "Mode": 4,
             "Speed": 0.4000000059604645,
-            "Timer": 26.00916664123535
+            "Timer": 26.009166717529297
         }
     },
     "SpeedMine": {
