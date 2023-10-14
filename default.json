@@ -2,7 +2,7 @@
     "Animation": {
         "bind": -1,
         "enabled": true,
-        "hidden": false,
+        "hidden": true,
         "settings": {
             "Block A": true,
             "Block B": true,
@@ -29,7 +29,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Fall Distance": 3
+            "Distance": 3
         }
     },
     "ArrayList": {
@@ -42,7 +42,7 @@
             "Custom Location": 30,
             "Glow Mode": 0,
             "Height": 40.0,
-            "Line Mode": 0,
+            "Line Mode": 4,
             "Lowercase": false,
             "Opacity": 40.25316619873047,
             "Speed": 15
@@ -51,7 +51,7 @@
     "AutoHive": {
         "bind": -1,
         "enabled": true,
-        "hidden": false,
+        "hidden": true,
         "settings": null
     },
     "AutoSnowball": {
@@ -88,9 +88,17 @@
     "Bps": {
         "bind": -1,
         "enabled": true,
-        "hidden": false,
+        "hidden": true,
         "settings": {
             "Timing": 0
+        }
+    },
+    "Breaker": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Delay": 200
         }
     },
     "Camera": {
@@ -153,6 +161,8 @@
         "hidden": false,
         "settings": {
             "Max Packet": 100,
+            "Max Ticks": 2,
+            "Mode": 0,
             "Movement Only": false
         }
     },
@@ -171,8 +181,6 @@
         "hidden": false,
         "settings": {
             "Clumsy delay": 20,
-            "Ground": false,
-            "Input": true,
             "Mode": 0
         }
     },
@@ -195,16 +203,16 @@
         "hidden": false,
         "settings": {
             "Boost value": 1.5,
-            "Delay": 4,
-            "Desync": false,
-            "Desync delay": 4,
+            "Delay": 6,
+            "Desync": true,
+            "Desync delay": 18,
             "Mode": 1,
             "Sneak Boost": false,
-            "Speed": 0.7799999713897705,
+            "Speed": 0.32780128717422485,
             "Stop speed": false,
-            "Temp timer": 13.0,
-            "Timer": 23.8734188079834,
-            "Value": -0.10000000149011612
+            "Temp timer": 20.0,
+            "Timer": 31.066913604736328,
+            "Value": 0.2451809197664261
         }
     },
     "Freecam": {
@@ -225,12 +233,15 @@
         "hidden": false,
         "settings": {
             "Auto Armor": true,
+            "Block": true,
             "Clean": true,
+            "Clean Block": true,
             "Delay": 0,
             "Drop Axe": true,
             "Drop Book": true,
             "Life Spell": true,
             "Manage": true,
+            "Mode": 0,
             "Snowball": true
         }
     },
@@ -245,6 +256,14 @@
             "Test": 30.0
         }
     },
+    "KeyBinds": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Shadow": 1
+        }
+    },
     "KillAura": {
         "bind": 82,
         "hidden": false,
@@ -253,15 +272,45 @@
             "Max CPS": 9.958268165588379,
             "Min CPS": 8.0,
             "Mode": 0,
-            "Priority": 1,
+            "Priority": 0,
             "Range": 4.5,
             "Raycast": true,
             "Render": true,
             "Render Mode": 1,
-            "Rotation": 1,
+            "Rotation": 0,
             "Swap": 1,
+            "Switch Delay": 100,
             "Teams": true,
-            "Thickness": 25.0
+            "Thickness": 25.0,
+            "Toggle": true
+        }
+    },
+    "KillSound": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
+            "Sound": 0
+        }
+    },
+    "KillSults": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Mode": 4
+        }
+    },
+    "LongJump": {
+        "bind": 71,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Boost": 0.5765148997306824,
+            "Mode": 0,
+            "Motion": 0.9591526985168457,
+            "Strafe": true,
+            "Timer": 10.0
         }
     },
     "NameTags": {
@@ -298,6 +347,14 @@
         "settings": {
             "Distance": 3.0,
             "Height": 0.10000000149011612,
+            "Mode": 0
+        }
+    },
+    "NoSlowDown": {
+        "bind": -1,
+        "enabled": true,
+        "hidden": false,
+        "settings": {
             "Mode": 0
         }
     },
@@ -338,12 +395,13 @@
             "Amount": 1.4500000476837158,
             "Boost": true,
             "Container": true,
-            "Continue delay": 100,
+            "Continue delay": 0,
             "Delay": 500,
             "Instant": true,
-            "Priority": 0,
+            "Priority": 1,
             "Range": 7.0,
             "Render": true,
+            "Swing": true,
             "Toggle": true
         }
     },
@@ -353,15 +411,16 @@
         "settings": {
             "Delay": 3,
             "Extend": 3,
-            "Limit": 2,
             "LockY": true,
             "Mode": 1,
             "Priority": 0,
             "Rotation": 1,
             "Swap": 0,
+            "Swing": true,
             "Timer": 20.0,
-            "Tower": 0,
-            "Under place": true
+            "Tower": 1,
+            "Under place": true,
+            "Under place delay": 2
         }
     },
     "Sneak": {
@@ -375,12 +434,18 @@
         "enabled": false,
         "hidden": false,
         "settings": {
+            "Boost Amount": 0.20000000298023224,
+            "Boost Duration": 0.30000001192092896,
+            "Damage Boost": true,
             "Desync": true,
             "Desync delay": 18,
-            "Desync timer": 36.216636657714844,
+            "Desync timer": 35.990089416503906,
             "Duration": 0.9450465440750122,
+            "Force sprint": false,
             "Mode": 4,
+            "More boost": false,
             "Speed": 0.40276899933815,
+            "Strafe delay": 2,
             "Timer": 26.055736541748047
         }
     },
@@ -434,6 +499,14 @@
             "Render": true,
             "Step": 4.0,
             "Thickness": 6.0
+        }
+    },
+    "TargetStrafe": {
+        "bind": -1,
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Distance": 1.5
         }
     },
     "TestModule": {
@@ -492,11 +565,12 @@
     },
     "Watermark": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "Bar": true,
-            "First letter": true
+            "First letter": true,
+            "Mode": 1
         }
     },
     "Zoom": {
