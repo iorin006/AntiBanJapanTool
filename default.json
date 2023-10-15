@@ -272,7 +272,7 @@
             "Max CPS": 9.958268165588379,
             "Min CPS": 8.0,
             "Mode": 0,
-            "Priority": 0,
+            "Priority": 2,
             "Range": 4.5,
             "Raycast": true,
             "Render": true,
@@ -308,7 +308,7 @@
         "settings": {
             "Boost": 0.5765148997306824,
             "Mode": 0,
-            "Motion": 0.9591526985168457,
+            "Motion": 0.6838588118553162,
             "Strafe": true,
             "Timer": 10.0
         }
@@ -398,7 +398,7 @@
             "Continue delay": 0,
             "Delay": 500,
             "Instant": true,
-            "Priority": 1,
+            "Priority": 0,
             "Range": 7.0,
             "Render": true,
             "Swing": true,
@@ -420,7 +420,7 @@
             "Timer": 20.0,
             "Tower": 1,
             "Under place": true,
-            "Under place delay": 2
+            "Under place delay": 3
         }
     },
     "Sneak": {
@@ -439,14 +439,14 @@
             "Damage Boost": true,
             "Desync": true,
             "Desync delay": 18,
-            "Desync timer": 35.990089416503906,
-            "Duration": 0.9450465440750122,
-            "Force sprint": false,
+            "Desync timer": 34.75826644897461,
+            "Duration": 0.9290084838867188,
+            "Force sprint": true,
             "Mode": 4,
             "More boost": false,
-            "Speed": 0.40276899933815,
+            "Speed": 0.42162469029426575,
             "Strafe delay": 2,
-            "Timer": 26.055736541748047
+            "Timer": 27.022686004638672
         }
     },
     "SpeedMine": {
