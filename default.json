@@ -306,9 +306,9 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 0.5765148997306824,
+            "Boost": 0.6025955080986023,
             "Mode": 0,
-            "Motion": 0.6838588118553162,
+            "Motion": 0.9040937423706055,
             "Strafe": true,
             "Timer": 10.0
         }
@@ -444,7 +444,7 @@
             "Force sprint": true,
             "Mode": 4,
             "More boost": false,
-            "Speed": 0.4137757122516632,
+            "Speed": 0.4043574333190918,
             "Strafe delay": 2,
             "Timer": 27.022686004638672
         }
@@ -535,11 +535,11 @@
         }
     },
     "Timer": {
-        "bind": -1,
+        "bind": 71,
         "enabled": false,
         "hidden": true,
         "settings": {
-            "Timer": 100.0
+            "Timer": 6.376757621765137
         }
     },
     "ToggleSound": {
