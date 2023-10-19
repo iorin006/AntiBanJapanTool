@@ -90,7 +90,7 @@
         "enabled": true,
         "hidden": true,
         "settings": {
-            "Timing": 0
+            "Timing": 1
         }
     },
     "Breaker": {
@@ -268,12 +268,12 @@
         "bind": 82,
         "hidden": false,
         "settings": {
-            "Desync Delay": 300,
-            "Max CPS": 9.958268165588379,
+            "Desync Delay": 500,
+            "Max CPS": 8.0,
             "Min CPS": 8.0,
             "Mode": 0,
             "Priority": 2,
-            "Range": 4.5,
+            "Range": 5.0,
             "Raycast": true,
             "Render": true,
             "Render Mode": 1,
@@ -306,10 +306,10 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 0.6025955080986023,
+            "Boost": 1.0,
             "Mode": 0,
-            "Motion": 0.9040937423706055,
-            "Strafe": true,
+            "Motion": 0.5553892850875854,
+            "Strafe": false,
             "Timer": 10.0
         }
     },
@@ -380,11 +380,11 @@
         }
     },
     "Phase": {
-        "bind": -1,
+        "bind": 72,
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Desync": false
+            "Desync": true
         }
     },
     "Regen": {
@@ -420,7 +420,7 @@
             "Timer": 20.0,
             "Tower": 1,
             "Under place": true,
-            "Under place delay": 3
+            "Under place delay": 1
         }
     },
     "Sneak": {
@@ -438,8 +438,8 @@
             "Boost Duration": 0.949999988079071,
             "Damage Boost": false,
             "Desync": true,
-            "Desync delay": 18,
-            "Desync timer": 34.75826644897461,
+            "Desync delay": 17,
+            "Desync timer": 36.93389892578125,
             "Duration": 0.9290084838867188,
             "Force sprint": true,
             "Mode": 4,
@@ -535,11 +535,11 @@
         }
     },
     "Timer": {
-        "bind": 71,
-        "enabled": false,
+        "bind": -1,
+        "enabled": true,
         "hidden": true,
         "settings": {
-            "Timer": 6.376757621765137
+            "Timer": 25.12310218811035
         }
     },
     "ToggleSound": {
