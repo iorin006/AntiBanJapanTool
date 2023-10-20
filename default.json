@@ -87,10 +87,10 @@
     },
     "Bps": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": true,
         "settings": {
-            "Timing": 1
+            "Timing": 0
         }
     },
     "Breaker": {
@@ -273,7 +273,7 @@
             "Min CPS": 8.0,
             "Mode": 0,
             "Priority": 2,
-            "Range": 5.0,
+            "Range": 4.847046852111816,
             "Raycast": true,
             "Render": true,
             "Render Mode": 1,
@@ -392,14 +392,14 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Amount": 1.4500000476837158,
+            "Amount": 6.0,
             "Boost": true,
             "Container": true,
-            "Continue delay": 500,
-            "Delay": 445,
+            "Continue delay": 0,
+            "Delay": 446,
             "Instant": true,
             "Priority": 0,
-            "Range": 7.0,
+            "Range": 8.0,
             "Render": true,
             "Swing": true,
             "Toggle": true
@@ -420,7 +420,7 @@
             "Timer": 20.0,
             "Tower": 1,
             "Under place": true,
-            "Under place delay": 2
+            "Under place delay": 3
         }
     },
     "Sneak": {
@@ -434,11 +434,11 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost Amount": 1.0,
+            "Boost Amount": 0.7547315359115601,
             "Boost Duration": 0.4000000059604645,
             "Damage Boost": true,
             "Desync": true,
-            "Desync delay": 17,
+            "Desync delay": 16,
             "Desync timer": 36.71454620361328,
             "Duration": 0.9490084648132324,
             "Force sprint": true,
@@ -446,7 +446,7 @@
             "More boost": true,
             "Speed": 0.3043574392795563,
             "Strafe delay": 0,
-            "Timer": 21.01797103881836
+            "Timer": 20.979265213012695
         }
     },
     "SpeedMine": {
@@ -460,7 +460,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Speed": 0.30000001192092896
+            "Speed": 0.2783162593841553
         }
     },
     "Spinner": {
@@ -536,10 +536,10 @@
     },
     "Timer": {
         "bind": -1,
-        "enabled": true,
-        "hidden": true,
+        "enabled": false,
+        "hidden": false,
         "settings": {
-            "Timer": 25.12310218811035
+            "Timer": 20.0
         }
     },
     "ToggleSound": {
