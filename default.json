@@ -87,7 +87,7 @@
     },
     "Bps": {
         "bind": -1,
-        "enabled": true,
+        "enabled": false,
         "hidden": true,
         "settings": {
             "Timing": 1
@@ -306,7 +306,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 1.0,
+            "Boost": 0.8981736302375793,
             "Mode": 0,
             "Motion": 0.5553892850875854,
             "Strafe": false,
@@ -420,7 +420,7 @@
             "Timer": 20.0,
             "Tower": 1,
             "Under place": true,
-            "Under place delay": 1
+            "Under place delay": 2
         }
     },
     "Sneak": {
@@ -435,18 +435,18 @@
         "hidden": false,
         "settings": {
             "Boost Amount": 1.0,
-            "Boost Duration": 0.949999988079071,
-            "Damage Boost": false,
+            "Boost Duration": 0.4000000059604645,
+            "Damage Boost": true,
             "Desync": true,
             "Desync delay": 17,
-            "Desync timer": 36.93389892578125,
-            "Duration": 0.9290084838867188,
+            "Desync timer": 36.71454620361328,
+            "Duration": 0.9490084648132324,
             "Force sprint": true,
-            "Mode": 4,
-            "More boost": false,
-            "Speed": 0.4043574333190918,
-            "Strafe delay": 2,
-            "Timer": 27.022686004638672
+            "Mode": 1,
+            "More boost": true,
+            "Speed": 0.3043574392795563,
+            "Strafe delay": 0,
+            "Timer": 21.01797103881836
         }
     },
     "SpeedMine": {
