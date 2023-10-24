@@ -411,7 +411,7 @@
         "hidden": false,
         "settings": {
             "Desync Delay": 600,
-            "Max CPS": 8.0,
+            "Max CPS": 10.0,
             "Min CPS": 7.0,
             "Mode": 0,
             "Priority": 2,
