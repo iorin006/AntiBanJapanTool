@@ -268,9 +268,9 @@
         "bind": 82,
         "hidden": false,
         "settings": {
-            "Desync Delay": 500,
+            "Desync Delay": 600,
             "Max CPS": 8.0,
-            "Min CPS": 8.0,
+            "Min CPS": 7.0,
             "Mode": 0,
             "Priority": 2,
             "Range": 4.847046852111816,
@@ -295,7 +295,7 @@
     },
     "KillSults": {
         "bind": -1,
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "Mode": 4
@@ -418,7 +418,7 @@
             "Swap": 0,
             "Swing": true,
             "Timer": 20.0,
-            "Tower": 1,
+            "Tower": 2,
             "Under place": true,
             "Under place delay": 3
         }
@@ -438,8 +438,8 @@
             "Boost Duration": 0.4000000059604645,
             "Damage Boost": true,
             "Desync": true,
-            "Desync delay": 16,
-            "Desync timer": 36.71454620361328,
+            "Desync delay": 18,
+            "Desync timer": 36.473052978515625,
             "Duration": 0.9490084648132324,
             "Force sprint": true,
             "Mode": 1,
