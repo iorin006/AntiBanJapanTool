@@ -1,6 +1,10 @@
 {
     "Animation": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": true,
         "settings": {
@@ -14,18 +18,42 @@
     },
     "AnniSound": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
+    "AntiBot": {
+        "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Mode": 0
+        }
+    },
     "AntiImmobile": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "AntiVoid": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -34,28 +62,38 @@
     },
     "ArrayList": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": true,
         "settings": {
             "Animation": 0,
-            "Animation Speed": 1.0,
-            "Custom Location": 30,
-            "Glow Mode": 0,
-            "Height": 40.0,
-            "Line Mode": 4,
+            "Line": 4,
             "Lowercase": false,
             "Opacity": 40.25316619873047,
+            "Reverse Animation": false,
+            "Reverse Colors": false,
             "Speed": 15
         }
     },
     "AutoHive": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": true,
         "settings": null
     },
     "AutoSnowball": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
@@ -64,6 +102,10 @@
     },
     "AutoSpellBook": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -72,12 +114,20 @@
     },
     "AutoVClip": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "BoatFlight": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -87,6 +137,10 @@
     },
     "Bps": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": true,
         "settings": {
@@ -95,6 +149,10 @@
     },
     "Breaker": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -103,6 +161,10 @@
     },
     "Camera": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": true,
         "settings": {
@@ -113,18 +175,32 @@
     },
     "ChatCleaner": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "ChatSuffix": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
-        "settings": null
+        "settings": {
+            "Mode": 0
+        }
     },
     "ChestStealer": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
@@ -133,23 +209,39 @@
     },
     "ClickFriend": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "ClickGui": {
         "bind": 45,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": true,
         "settings": null
     },
     "Coords": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 985.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "CustomFov": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -158,6 +250,10 @@
     },
     "Desync": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": true,
         "settings": {
             "Max Packet": 18,
@@ -168,6 +264,10 @@
     },
     "DeviceSpoofer": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -177,6 +277,10 @@
     },
     "Disabler": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -186,6 +290,10 @@
     },
     "ESP": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -194,29 +302,42 @@
     },
     "FastStop": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": null
     },
     "Flight": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": {
             "Boost value": 1.5,
             "Delay": 6,
             "Desync": true,
             "Desync delay": 18,
+            "Down": false,
+            "DownValue": -0.10000000149011612,
             "Mode": 1,
             "Sneak Boost": false,
             "Speed": 0.32780128717422485,
             "Stop speed": false,
             "Temp timer": 20.0,
-            "Timer": 31.066913604736328,
-            "Value": 0.2451809197664261
+            "Timer": 31.066913604736328
         }
     },
     "Freecam": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": {
             "Speed": 1.5
@@ -224,29 +345,42 @@
     },
     "HudEditor": {
         "bind": 36,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": null
     },
     "InventoryManager": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
-            "Auto Armor": true,
-            "Block": true,
-            "Clean": true,
-            "Clean Block": true,
+            "Auto Drop": true,
+            "Auto Equipment": true,
+            "Auto Sort": true,
             "Delay": 0,
-            "Drop Axe": true,
-            "Drop Book": true,
-            "Life Spell": true,
-            "Manage": true,
+            "Drop axe": true,
+            "Drop blocks": true,
+            "Drop books": true,
             "Mode": 0,
-            "Snowball": true
+            "Only in Inventory": false,
+            "Sort blocks": true,
+            "Sort snowball": true,
+            "Sort spellBook": true
         }
     },
     "JumpCircle": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -258,14 +392,22 @@
     },
     "KeyBinds": {
         "bind": -1,
+        "element": {
+            "x": 525.0,
+            "y": 20.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Shadow": 1
+            "Opacity": 40.0
         }
     },
     "KillAura": {
         "bind": 82,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": {
             "Desync Delay": 600,
@@ -281,12 +423,16 @@
             "Swap": 1,
             "Switch Delay": 100,
             "Teams": true,
-            "Thickness": 25.0,
+            "Thickness": 8.0,
             "Toggle": true
         }
     },
     "KillSound": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
@@ -295,6 +441,10 @@
     },
     "KillSults": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
@@ -303,18 +453,28 @@
     },
     "LongJump": {
         "bind": 71,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
             "Boost": 0.8981736302375793,
             "Mode": 0,
             "Motion": 0.5553892850875854,
+            "Place": true,
+            "Speed": 0.30000001192092896,
             "Strafe": false,
             "Timer": 10.0
         }
     },
     "NameTags": {
         "bind": 9,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -324,6 +484,10 @@
     },
     "NexusBreaker": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": {
             "Delay": 500,
@@ -334,6 +498,10 @@
     },
     "NoClip": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": {
             "Desync": false,
@@ -342,6 +510,10 @@
     },
     "NoFall": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -352,6 +524,10 @@
     },
     "NoSlowDown": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
@@ -360,6 +536,10 @@
     },
     "Nuker": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": {
             "Above check": true,
@@ -370,6 +550,10 @@
     },
     "PacketLogger": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": {
             "Auth Input": true,
@@ -381,6 +565,10 @@
     },
     "Phase": {
         "bind": 72,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -389,6 +577,10 @@
     },
     "Regen": {
         "bind": 86,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -402,11 +594,17 @@
             "Range": 8.0,
             "Render": true,
             "Swing": true,
-            "Toggle": true
+            "Toggle": true,
+            "Underground": false,
+            "Underground Delay": 500
         }
     },
     "Scaffold": {
         "bind": 67,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "hidden": false,
         "settings": {
             "Delay": 3,
@@ -425,12 +623,20 @@
     },
     "Sneak": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "Speed": {
         "bind": 70,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -442,21 +648,31 @@
             "Desync timer": 36.473052978515625,
             "Duration": 0.9490084648132324,
             "Force sprint": true,
+            "Ground boost": true,
             "Mode": 1,
             "More boost": true,
             "Speed": 0.3043574392795563,
+            "Strafe": true,
             "Strafe delay": 0,
             "Timer": 20.979265213012695
         }
     },
     "SpeedMine": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "Spider": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -465,6 +681,10 @@
     },
     "Spinner": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -474,6 +694,10 @@
     },
     "Sprint": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
@@ -482,27 +706,41 @@
     },
     "Stackable": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "TPAura": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
             "Back": true,
             "CPS": 2.0,
+            "Friends": false,
             "Priority": 2,
             "Randomize": true,
             "Range": 15.0,
             "Render": true,
             "Step": 4.0,
+            "Team": false,
             "Thickness": 6.0
         }
     },
     "TargetStrafe": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -511,15 +749,24 @@
     },
     "TestModule": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "Theme": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": true,
         "settings": {
+            "Blur Amount": 12.0,
             "Font": 0,
             "Interpolation Speed": 12,
             "Shadow Amount": 37.130802154541016,
@@ -528,6 +775,10 @@
     },
     "TimeChanger": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -536,6 +787,10 @@
     },
     "Timer": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
@@ -544,12 +799,20 @@
     },
     "ToggleSound": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": null
     },
     "Velocity": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
@@ -559,12 +822,20 @@
     },
     "WarmupTimer": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": null
     },
     "Watermark": {
         "bind": -1,
+        "element": {
+            "x": 18.0,
+            "y": 10.0
+        },
         "enabled": true,
         "hidden": false,
         "settings": {
@@ -575,6 +846,10 @@
     },
     "Zoom": {
         "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
         "enabled": false,
         "hidden": false,
         "settings": {
