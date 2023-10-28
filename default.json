@@ -12,6 +12,7 @@
             "Block B": true,
             "Block C": true,
             "Fake Block": true,
+            "Mode": 0,
             "Motion": 0.0,
             "Speed": 6
         }
@@ -72,21 +73,22 @@
             "Animation": 0,
             "Line": 4,
             "Lowercase": false,
-            "Opacity": 40.25316619873047,
             "Reverse Animation": false,
             "Reverse Colors": false,
             "Speed": 15
         }
     },
-    "AutoHive": {
+    "AutoQueue": {
         "bind": -1,
         "element": {
             "x": 0.0,
             "y": 0.0
         },
-        "enabled": true,
-        "hidden": true,
-        "settings": null
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Mode": 0
+        }
     },
     "AutoSnowball": {
         "bind": -1,
@@ -122,6 +124,19 @@
         "hidden": false,
         "settings": null
     },
+    "BlockESP": {
+        "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Fade": true,
+            "Only can break": true
+        }
+    },
     "BoatFlight": {
         "bind": -1,
         "element": {
@@ -135,18 +150,6 @@
             "Vertical Speed": 1.5
         }
     },
-    "Bps": {
-        "bind": -1,
-        "element": {
-            "x": 0.0,
-            "y": 0.0
-        },
-        "enabled": true,
-        "hidden": true,
-        "settings": {
-            "Timing": 0
-        }
-    },
     "Breaker": {
         "bind": -1,
         "element": {
@@ -156,7 +159,8 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Delay": 200
+            "Delay": 200,
+            "Swing": false
         }
     },
     "Camera": {
@@ -226,16 +230,6 @@
         "hidden": true,
         "settings": null
     },
-    "Coords": {
-        "bind": -1,
-        "element": {
-            "x": 0.0,
-            "y": 985.0
-        },
-        "enabled": false,
-        "hidden": false,
-        "settings": null
-    },
     "CustomFov": {
         "bind": -1,
         "element": {
@@ -259,7 +253,8 @@
             "Max Packet": 18,
             "Max Ticks": 30,
             "Mode": 1,
-            "Movement Only": false
+            "Movement Only": false,
+            "Server-side": true
         }
     },
     "DeviceSpoofer": {
@@ -297,6 +292,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
+            "Mode": 0,
             "Teams": false
         }
     },
@@ -343,6 +339,20 @@
             "Speed": 1.5
         }
     },
+    "HUD": {
+        "bind": -1,
+        "element": {
+            "x": 0.0,
+            "y": 0.0
+        },
+        "enabled": false,
+        "hidden": false,
+        "settings": {
+            "Bps": true,
+            "Coords": true,
+            "Timing": 0
+        }
+    },
     "HudEditor": {
         "bind": 36,
         "element": {
@@ -368,6 +378,7 @@
             "Drop axe": true,
             "Drop blocks": true,
             "Drop books": true,
+            "Drop dirty cobblestones": true,
             "Mode": 0,
             "Only in Inventory": false,
             "Sort blocks": true,
@@ -398,9 +409,7 @@
         },
         "enabled": false,
         "hidden": false,
-        "settings": {
-            "Opacity": 40.0
-        }
+        "settings": null
     },
     "KillAura": {
         "bind": 82,
@@ -410,18 +419,20 @@
         },
         "hidden": false,
         "settings": {
+            "Attack Range": 4.5,
             "Desync Delay": 600,
             "Max CPS": 10.0,
             "Min CPS": 7.0,
             "Mode": 0,
+            "Pause during Desync": false,
             "Priority": 2,
-            "Range": 4.847046852111816,
             "Raycast": true,
             "Render": true,
             "Render Mode": 1,
-            "Rotation": 0,
+            "Rotation": 2,
             "Swap": 1,
             "Switch Delay": 100,
+            "Target Range": 4.5,
             "Teams": true,
             "Thickness": 8.0,
             "Toggle": true
@@ -594,9 +605,7 @@
             "Range": 8.0,
             "Render": true,
             "Swing": true,
-            "Toggle": true,
-            "Underground": false,
-            "Underground Delay": 500
+            "Toggle": true
         }
     },
     "Scaffold": {
@@ -612,6 +621,9 @@
             "LockY": true,
             "Mode": 1,
             "Priority": 0,
+            "Render": true,
+            "Render Counter": true,
+            "Render block": true,
             "Rotation": 1,
             "Swap": 0,
             "Swing": true,
@@ -665,7 +677,9 @@
         },
         "enabled": false,
         "hidden": false,
-        "settings": null
+        "settings": {
+            "Speed": 70
+        }
     },
     "Spider": {
         "bind": -1,
@@ -766,11 +780,13 @@
         "enabled": true,
         "hidden": true,
         "settings": {
-            "Blur Amount": 12.0,
+            "Blur Amount": 20.0,
+            "ColorOpacity": 30.0,
             "Font": 0,
-            "Interpolation Speed": 12,
-            "Shadow Amount": 37.130802154541016,
-            "Theme": 4
+            "Interpolation Speed": 10,
+            "Opacity": 50.0,
+            "Shadow Amount": 100.0,
+            "Theme": 3
         }
     },
     "TimeChanger": {
