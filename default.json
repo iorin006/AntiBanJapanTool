@@ -8,13 +8,13 @@
         "enabled": true,
         "hidden": true,
         "settings": {
-            "Block A": true,
-            "Block B": true,
+            "Block A": false,
+            "Block B": false,
             "Block C": true,
             "Fake Block": true,
             "Mode": 0,
             "Motion": 0.0,
-            "Speed": 6
+            "Speed": 10
         }
     },
     "AnniSound": {
@@ -84,7 +84,7 @@
             "x": 0.0,
             "y": 0.0
         },
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
             "Mode": 0
@@ -250,8 +250,8 @@
         },
         "hidden": true,
         "settings": {
-            "Max Packet": 18,
-            "Max Ticks": 30,
+            "Max Packet": 2,
+            "Max Ticks": 2,
             "Mode": 1,
             "Movement Only": false,
             "Server-side": true
@@ -279,7 +279,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Clumsy delay": 20,
+            "Clumsy delay": 1,
             "Mode": 0
         }
     },
@@ -424,7 +424,7 @@
             "Max CPS": 10.0,
             "Min CPS": 7.0,
             "Mode": 0,
-            "Pause during Desync": false,
+            "Pause during Desync": true,
             "Priority": 2,
             "Raycast": true,
             "Render": true,
@@ -471,9 +471,9 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 0.8981736302375793,
+            "Boost": 0.7000000476837158,
             "Mode": 0,
-            "Motion": 0.5553892850875854,
+            "Motion": 0.6373006105422974,
             "Place": true,
             "Speed": 0.30000001192092896,
             "Strafe": false,
@@ -598,8 +598,8 @@
             "Amount": 6.0,
             "Boost": true,
             "Container": true,
-            "Continue delay": 0,
-            "Delay": 446,
+            "Continue delay": 200,
+            "Delay": 500,
             "Instant": true,
             "Priority": 0,
             "Range": 8.0,
@@ -625,7 +625,7 @@
             "Render Counter": true,
             "Render block": true,
             "Rotation": 1,
-            "Swap": 0,
+            "Swap": 1,
             "Swing": true,
             "Timer": 20.0,
             "Tower": 2,
@@ -652,12 +652,12 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost Amount": 0.7547315359115601,
+            "Boost Amount": 0.7000000476837158,
             "Boost Duration": 0.4000000059604645,
             "Damage Boost": true,
             "Desync": true,
             "Desync delay": 18,
-            "Desync timer": 36.473052978515625,
+            "Desync timer": 36.467803955078125,
             "Duration": 0.9490084648132324,
             "Force sprint": true,
             "Ground boost": true,
