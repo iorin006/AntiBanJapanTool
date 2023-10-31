@@ -58,7 +58,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Distance": 3
+            "Distance": 5
         }
     },
     "ArrayList": {
@@ -120,7 +120,7 @@
             "x": 0.0,
             "y": 0.0
         },
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": null
     },
@@ -471,11 +471,11 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 0.7000000476837158,
+            "Boost": 0.8999999761581421,
             "Mode": 0,
             "Motion": 0.6373006105422974,
             "Place": true,
-            "Speed": 0.30000001192092896,
+            "Speed": 0.8999999761581421,
             "Strafe": false,
             "Timer": 10.0
         }
@@ -652,7 +652,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost Amount": 0.7000000476837158,
+            "Boost Amount": 0.6497894525527954,
             "Boost Duration": 0.4000000059604645,
             "Damage Boost": true,
             "Desync": true,
