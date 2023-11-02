@@ -471,9 +471,9 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 0.8999999761581421,
+            "Boost": 0.7999999523162842,
             "Mode": 0,
-            "Motion": 0.6373006105422974,
+            "Motion": 0.7373006343841553,
             "Place": true,
             "Speed": 0.8999999761581421,
             "Strafe": false,
@@ -786,7 +786,7 @@
             "Interpolation Speed": 10,
             "Opacity": 50.0,
             "Shadow Amount": 100.0,
-            "Theme": 3
+            "Theme": 7
         }
     },
     "TimeChanger": {
