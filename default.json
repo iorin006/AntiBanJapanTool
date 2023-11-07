@@ -307,25 +307,25 @@
         "settings": null
     },
     "Flight": {
-        "bind": -1,
+        "bind": 88,
         "element": {
             "x": 0.0,
             "y": 0.0
         },
         "hidden": false,
         "settings": {
-            "Boost value": 1.5,
-            "Delay": 6,
-            "Desync": true,
-            "Desync delay": 18,
-            "Down": false,
-            "DownValue": -0.10000000149011612,
-            "Mode": 1,
+            "Boost value": 0.5,
+            "Delay": 1,
+            "Desync": false,
+            "Desync delay": 16,
+            "Down": true,
+            "DownValue": -0.06347090005874634,
+            "Mode": 0,
             "Sneak Boost": false,
-            "Speed": 0.32780128717422485,
-            "Stop speed": false,
-            "Temp timer": 20.0,
-            "Timer": 31.066913604736328
+            "Speed": 0.24386575818061829,
+            "Stop speed": true,
+            "Temp timer": 40.0,
+            "Timer": 0.0
         }
     },
     "Freecam": {
@@ -348,8 +348,8 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Bps": true,
-            "Coords": true,
+            "Bps": false,
+            "Coords": false,
             "Timing": 0
         }
     },
@@ -374,7 +374,7 @@
             "Auto Drop": true,
             "Auto Equipment": true,
             "Auto Sort": true,
-            "Delay": 0,
+            "Delay": 5,
             "Drop axe": true,
             "Drop blocks": true,
             "Drop books": true,
@@ -471,9 +471,9 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 0.7999999523162842,
+            "Boost": 0.8999999761581421,
             "Mode": 0,
-            "Motion": 0.7373006343841553,
+            "Motion": 0.8373006582260132,
             "Place": true,
             "Speed": 0.8999999761581421,
             "Strafe": false,
@@ -575,7 +575,7 @@
         }
     },
     "Phase": {
-        "bind": 72,
+        "bind": -1,
         "element": {
             "x": 0.0,
             "y": 0.0
@@ -583,7 +583,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Desync": true
+            "Desync": false
         }
     },
     "Regen": {
@@ -598,8 +598,8 @@
             "Amount": 6.0,
             "Boost": true,
             "Container": true,
-            "Continue delay": 200,
-            "Delay": 500,
+            "Continue delay": 0,
+            "Delay": 450,
             "Instant": true,
             "Priority": 0,
             "Range": 8.0,
@@ -624,7 +624,7 @@
             "Render": true,
             "Render Counter": true,
             "Render block": true,
-            "Rotation": 1,
+            "Rotation": 2,
             "Swap": 1,
             "Swing": true,
             "Timer": 20.0,
@@ -682,7 +682,7 @@
         }
     },
     "Spider": {
-        "bind": -1,
+        "bind": 88,
         "element": {
             "x": 0.0,
             "y": 0.0
