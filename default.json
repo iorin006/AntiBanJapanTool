@@ -87,7 +87,7 @@
             "x": 0.0,
             "y": 0.0
         },
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": null
     },
@@ -99,7 +99,7 @@
         "enabled": true,
         "hidden": false,
         "settings": {
-            "Throw delay": 300
+            "Throw delay": 100
         }
     },
     "AutoSpellBook": {
@@ -130,16 +130,16 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Fade": true,
+            "Fade": false,
             "Highlight Diamond": true,
-            "Highlight Emerald": true,
-            "Highlight Gold": true,
-            "Highlight Iron": true,
-            "Highlight Lapis": true,
-            "Highlight RedStone": true,
+            "Highlight Emerald": false,
+            "Highlight Gold": false,
+            "Highlight Iron": false,
+            "Highlight Lapis": false,
+            "Highlight RedStone": false,
             "Mode": 0,
             "Only can break": true,
-            "Range": 8.0,
+            "Range": 15.0,
             "Thickness": 1.0
         }
     },
@@ -247,7 +247,7 @@
         "hidden": true,
         "settings": {
             "Max Packet": 2,
-            "Max Ticks": 2,
+            "Max Ticks": 30,
             "Mode": 1,
             "Movement Only": false,
             "Server-side": true
@@ -398,7 +398,7 @@
         },
         "hidden": false,
         "settings": {
-            "Attack Range": 4.765743732452393,
+            "Attack Range": 4.687370777130127,
             "Desync Delay": 600,
             "Max CPS": 10.0,
             "Min CPS": 7.0,
@@ -549,10 +549,10 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Amount": 6.0,
+            "Amount": 1.100000023841858,
             "Boost": true,
             "Continue delay": 0,
-            "Delay": 450,
+            "Delay": 500,
             "Mode": 0,
             "Priority": 0,
             "Range": 8.0,
@@ -577,11 +577,11 @@
             "Render Counter": true,
             "Render block": true,
             "Rotation": 2,
-            "Swap": 1,
+            "Swap": 0,
             "Swing": true,
             "Timer": 20.0,
             "Tower": 2,
-            "Under place": true,
+            "Under place": false,
             "Under place delay": 2
         }
     },
@@ -602,18 +602,18 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost Amount": 0.44550561904907227,
+            "Boost Amount": 0.49635636806488037,
             "Boost Duration": 0.20000000298023224,
             "Damage Boost": true,
-            "Desync": true,
-            "Desync delay": 17,
-            "Desync timer": 30.992504119873047,
+            "Desync": false,
+            "Desync delay": 16,
+            "Desync timer": 29.9652099609375,
             "Duration": 0.9490084648132324,
-            "Force sprint": true,
-            "Mode": 0,
+            "Force sprint": false,
+            "Mode": 1,
             "More boost": true,
             "Speed": 0.3043574392795563,
-            "Timer": 19.553295135498047
+            "Timer": 20.9764461517334
         }
     },
     "SpeedMine": {
@@ -759,9 +759,9 @@
             "y": 0.0
         },
         "enabled": false,
-        "hidden": false,
+        "hidden": true,
         "settings": {
-            "Timer": 20.0
+            "Timer": 93.67042541503906
         }
     },
     "ToggleSound": {
