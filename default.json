@@ -208,7 +208,7 @@
         "enabled": true,
         "hidden": false,
         "settings": {
-            "Delay": 100
+            "Delay": 88
         }
     },
     "ClickFriend": {
@@ -568,10 +568,10 @@
         },
         "hidden": false,
         "settings": {
-            "Delay": 3,
-            "Extend": 3,
+            "Delay": 4,
+            "Extend": 10,
             "LockY": true,
-            "Mode": 1,
+            "Mode": 0,
             "Priority": 0,
             "Render": true,
             "Render Counter": true,
@@ -579,7 +579,7 @@
             "Rotation": 2,
             "Swap": 0,
             "Swing": true,
-            "Timer": 20.0,
+            "Timer": 19.959455490112305,
             "Tower": 2,
             "Under place": false,
             "Under place delay": 2
@@ -603,7 +603,7 @@
         "hidden": false,
         "settings": {
             "Boost Amount": 0.49635636806488037,
-            "Boost Duration": 0.20000000298023224,
+            "Boost Duration": 0.3016069829463959,
             "Damage Boost": true,
             "Desync": false,
             "Desync delay": 16,
@@ -613,7 +613,7 @@
             "Mode": 1,
             "More boost": true,
             "Speed": 0.3043574392795563,
-            "Timer": 20.9764461517334
+            "Timer": 20.77972412109375
         }
     },
     "SpeedMine": {
