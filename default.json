@@ -311,7 +311,7 @@
             "Desync delay": 16,
             "Down": true,
             "DownValue": -0.06347090005874634,
-            "Mode": 0,
+            "Mode": 2,
             "Sneak Boost": false,
             "Speed": 0.24386575818061829,
             "Stop speed": true,
@@ -372,7 +372,7 @@
             "Drop dirty cobblestones": true,
             "Mode": 0,
             "Only in Inventory": false,
-            "Sort blocks": true,
+            "Sort blocks": false,
             "Sort snowball": true,
             "Sort spellBook": true
         }
@@ -579,7 +579,7 @@
             "Rotation": 2,
             "Swap": 0,
             "Swing": true,
-            "Timer": 19.959455490112305,
+            "Timer": 60.0,
             "Tower": 2,
             "Under place": false,
             "Under place delay": 2
@@ -759,9 +759,9 @@
             "y": 0.0
         },
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "settings": {
-            "Timer": 93.67042541503906
+            "Timer": 0.0
         }
     },
     "ToggleSound": {
