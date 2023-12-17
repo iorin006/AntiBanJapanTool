@@ -577,9 +577,9 @@
             "Render Counter": true,
             "Render block": true,
             "Rotation": 2,
-            "Swap": 0,
+            "Swap": 1,
             "Swing": true,
-            "Timer": 60.0,
+            "Timer": 10.0,
             "Tower": 2,
             "Under place": false,
             "Under place delay": 2
