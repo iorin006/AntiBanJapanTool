@@ -194,7 +194,7 @@
             "x": 0.0,
             "y": 0.0
         },
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": {
             "Mode": 0
@@ -308,15 +308,15 @@
             "Boost value": 0.5,
             "Delay": 1,
             "Desync": false,
-            "Desync delay": 16,
-            "Down": true,
-            "DownValue": -0.06347090005874634,
-            "Mode": 2,
+            "Desync delay": 1,
+            "Down": false,
+            "DownValue": -0.4000000059604645,
+            "Mode": 0,
             "Sneak Boost": false,
-            "Speed": 0.24386575818061829,
+            "Speed": 1.1482255458831787,
             "Stop speed": true,
-            "Temp timer": 40.0,
-            "Timer": 0.0
+            "Temp timer": 10.06978988647461,
+            "Timer": 10.289458274841309
         }
     },
     "Freecam": {
@@ -400,8 +400,8 @@
         "settings": {
             "Attack Range": 4.687370777130127,
             "Desync Delay": 600,
-            "Max CPS": 10.0,
-            "Min CPS": 7.0,
+            "Max CPS": 12.97764778137207,
+            "Min CPS": 10.040567398071289,
             "Mode": 0,
             "Pause during Desync": true,
             "Priority": 2,
@@ -447,9 +447,9 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 0.8999999761581421,
+            "Boost": 1.0,
             "Mode": 0,
-            "Motion": 0.8373006582260132,
+            "Motion": 0.7025303840637207,
             "Place": true,
             "Speed": 0.8999999761581421,
             "Strafe": false,
@@ -602,7 +602,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost Amount": 0.49635636806488037,
+            "Boost Amount": 0.6957749724388123,
             "Boost Duration": 0.3016069829463959,
             "Damage Boost": true,
             "Desync": false,
@@ -613,7 +613,7 @@
             "Mode": 1,
             "More boost": true,
             "Speed": 0.3043574392795563,
-            "Timer": 20.77972412109375
+            "Timer": 20.876203536987305
         }
     },
     "SpeedMine": {
@@ -761,7 +761,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Timer": 0.0
+            "Timer": 1.8361700773239136
         }
     },
     "ToggleSound": {
@@ -769,7 +769,7 @@
             "x": 0.0,
             "y": 0.0
         },
-        "enabled": true,
+        "enabled": false,
         "hidden": false,
         "settings": null
     },
