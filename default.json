@@ -400,8 +400,8 @@
         "settings": {
             "Attack Range": 4.687370777130127,
             "Desync Delay": 600,
-            "Max CPS": 12.97764778137207,
-            "Min CPS": 10.040567398071289,
+            "Max CPS": 9.957071304321289,
+            "Min CPS": 8.024981498718262,
             "Mode": 0,
             "Pause during Desync": true,
             "Priority": 2,
@@ -569,7 +569,7 @@
         "hidden": false,
         "settings": {
             "Delay": 4,
-            "Extend": 10,
+            "Extend": 8,
             "LockY": true,
             "Mode": 0,
             "Priority": 0,
@@ -579,7 +579,7 @@
             "Rotation": 2,
             "Swap": 1,
             "Swing": true,
-            "Timer": 10.0,
+            "Timer": 19.692354202270508,
             "Tower": 2,
             "Under place": false,
             "Under place delay": 2
@@ -613,7 +613,7 @@
             "Mode": 1,
             "More boost": true,
             "Speed": 0.3043574392795563,
-            "Timer": 20.876203536987305
+            "Timer": 20.481611251831055
         }
     },
     "SpeedMine": {
