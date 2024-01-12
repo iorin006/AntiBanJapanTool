@@ -74,7 +74,7 @@
         "hidden": true,
         "settings": {
             "Animation": 0,
-            "Line": 4,
+            "Line": 0,
             "Lowercase": false,
             "Reverse Animation": false,
             "Reverse Colors": false,
@@ -447,7 +447,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Boost": 1.0,
+            "Boost": 0.5009790062904358,
             "Mode": 0,
             "Motion": 0.7025303840637207,
             "Place": true,
@@ -555,7 +555,7 @@
             "Delay": 500,
             "Mode": 0,
             "Priority": 0,
-            "Range": 8.0,
+            "Range": 12.0,
             "Render": true,
             "Swing": true,
             "Toggle": true
@@ -579,7 +579,7 @@
             "Rotation": 2,
             "Swap": 1,
             "Swing": true,
-            "Timer": 19.692354202270508,
+            "Timer": 17.065196990966797,
             "Tower": 2,
             "Under place": false,
             "Under place delay": 2
@@ -715,31 +715,31 @@
             "Fade Speed": 12,
             "Font": 0,
             "Primary": [
-                0.0,
-                0.857635498046875,
                 1.0,
+                0.40314292907714844,
+                0.6929286122322083,
                 1.0
             ],
             "Quaternary": [
-                0.25710296630859375,
-                0.0,
                 1.0,
+                0.0,
+                0.0,
                 1.0
             ],
             "Secondary": [
-                1.0,
-                0.0,
-                0.9553217887878418,
+                0.37535709142684937,
+                0.4306787848472595,
+                0.3143620491027832,
                 1.0
             ],
             "Shadow Amount": 100.0,
             "Tertiary": [
                 1.0,
-                0.4052855968475342,
+                0.0,
                 0.0,
                 1.0
             ],
-            "Theme": 3
+            "Theme": 0
         }
     },
     "TimeChanger": {
