@@ -314,7 +314,7 @@
             "Place": true,
             "Speed": 1.0,
             "Strafe": true,
-            "Timer": 15.069551467895508
+            "Timer": 20.719635009765625
         }
     },
     "MidClick": {
@@ -402,7 +402,7 @@
         "settings": {
             "Auto jump": false,
             "Delay": 4,
-            "Extend": 7,
+            "Extend": 8,
             "Force sprint": true,
             "Lock Y": true,
             "Mode": 0,
