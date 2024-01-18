@@ -1,18 +1,18 @@
 {
     "Animation": {
         "enabled": false,
-        "hidden": true,
+        "hidden": false,
         "settings": {
-            "Block A": false,
+            "Block A": true,
             "Block B": false,
             "Block C": true,
             "Down": true,
-            "Fake Block": false,
+            "Fake Block": true,
             "Mode": 0,
             "Motion": 0.0,
-            "Size": 0.0,
-            "Speed": 10,
-            "YPos": 0.0
+            "Size": -1.0,
+            "Speed": 5,
+            "YPos": 1.0
         }
     },
     "AnniSound": {
@@ -145,10 +145,10 @@
         "settings": null
     },
     "CustomFov": {
-        "enabled": false,
+        "enabled": true,
         "hidden": false,
         "settings": {
-            "Fov": 100.5063247680664
+            "Fov": 122.5901870727539
         }
     },
     "Desync": {
@@ -275,7 +275,7 @@
             "Max CPS": 10.989656448364258,
             "Min CPS": 6.954983234405518,
             "Mode": 0,
-            "PartySpammer(Hive)": false,
+            "PartySpammer(Hive)": true,
             "Pause during Desync": true,
             "Priority": 2,
             "Raycast": true,
@@ -438,7 +438,7 @@
             "Desync": false,
             "Desync delay": 16,
             "Desync timer": 29.9652099609375,
-            "Down timer": 20.0,
+            "Down timer": 10.0,
             "Duration": 0.9490084648132324,
             "Force forward": false,
             "Force sprint": false,
@@ -446,12 +446,12 @@
             "Jump boost": 1.0,
             "Jump delay": 0,
             "Mode": 1,
-            "More boost": true,
+            "More boost": false,
             "Render direction": false,
-            "Speed": 0.3043574392795563,
-            "Strafe strength": 0.5,
-            "Timer": 20.481611251831055,
-            "Up timer": 20.0
+            "Speed": 0.05000000074505806,
+            "Strafe strength": 0.05000000074505806,
+            "Timer": 22.003740310668945,
+            "Up timer": 10.0
         }
     },
     "SpeedMine": {
@@ -531,8 +531,8 @@
             "Font": 0,
             "Primary": [
                 1.0,
-                0.40314292907714844,
-                0.6929286122322083,
+                0.4032384753227234,
+                0.8401022553443909,
                 1.0
             ],
             "Quaternary": [
