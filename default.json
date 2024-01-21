@@ -314,7 +314,7 @@
             "Place": true,
             "Speed": 1.0,
             "Strafe": true,
-            "Timer": 20.719635009765625
+            "Timer": 29.9652099609375
         }
     },
     "MidClick": {
@@ -570,7 +570,7 @@
         "enabled": false,
         "hidden": false,
         "settings": {
-            "Timer": 2.5675454139709473
+            "Timer": 20.219377517700195
         }
     },
     "ToggleSound": {
