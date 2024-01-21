@@ -411,14 +411,14 @@
             "Render Counter": true,
             "Render block": true,
             "Rotation": 2,
-            "Silent sneak": true,
+            "Silent sneak": false,
             "Speed setting": 0,
             "Stop sprint": false,
             "Swap": 1,
             "Swing arm": true,
             "Timer": 18.434463500976563,
             "Tower": 2,
-            "Under place": false,
+            "Under place": true,
             "Under place delay": 2
         }
     },
