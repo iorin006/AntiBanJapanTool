@@ -26,7 +26,7 @@
                     "type": 0
                 },
                 {
-                    "enumValue": 2,
+                    "enumValue": 0,
                     "name": "Mode",
                     "type": 2
                 },
@@ -82,7 +82,7 @@
                 },
                 {
                     "name": "Range",
-                    "numberValue": 6.730000019073486,
+                    "numberValue": 4.420000076293945,
                     "type": 1
                 },
                 {
@@ -104,7 +104,7 @@
                 },
                 {
                     "name": "APS",
-                    "numberValue": 13.469999313354492,
+                    "numberValue": 9.15999984741211,
                     "type": 1
                 },
                 {
@@ -414,7 +414,7 @@
         },
         {
             "enabled": false,
-            "key": 88,
+            "key": 0,
             "name": "Fly",
             "settings": [
                 {
@@ -452,12 +452,12 @@
                 },
                 {
                     "name": "Height Loss",
-                    "numberValue": 0.5,
+                    "numberValue": 100.0,
                     "type": 1
                 },
                 {
                     "name": "Jump Delay",
-                    "numberValue": 0.20000000298023224,
+                    "numberValue": 100.0,
                     "type": 1
                 },
                 {
@@ -484,7 +484,7 @@
                     "type": 0
                 },
                 {
-                    "boolValue": false,
+                    "boolValue": true,
                     "key": -1,
                     "name": "Debug",
                     "type": 0
@@ -497,7 +497,7 @@
                 },
                 {
                     "name": "Timer Boost Value",
-                    "numberValue": 18.10999870300293,
+                    "numberValue": 2.929999828338623,
                     "type": 1
                 }
             ]
@@ -776,7 +776,7 @@
                     "type": 1
                 },
                 {
-                    "enumValue": 2,
+                    "enumValue": 1,
                     "name": "Jump Type",
                     "type": 2
                 },
@@ -2825,7 +2825,7 @@
         },
         {
             "enabled": false,
-            "key": 88,
+            "key": 0,
             "name": "NetSkip",
             "settings": [
                 {
